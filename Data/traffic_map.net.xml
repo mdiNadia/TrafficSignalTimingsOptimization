@@ -1,7 +1,0 @@
-<net>
-    <edge id="E1" from="N1" to="N2" numLanes="2" speed="50"/>
-    <edge id="E2" from="N2" to="N3" numLanes="2" speed="50"/>
-    <junction id="N1" type="priority" x="0" y="0"/>
-    <junction id="N2" type="traffic_light" x="500" y="0"/>
-    <junction id="N3" type="priority" x="1000" y="0"/>
-</net>

@@ -1,12 +1,13 @@
+<?xml version="1.0" ?>
 <configuration>
-    <input>
-<net-file value="network.net.xml"/>
-<route-files value="traffic_routes.rou.xml"/>
- <additional-files value="traffic_lights.add.xml"/>
-
-    </input>
-    <time>
-        <begin value="10"/>
-        <end value="1000"/>
-    </time>
+   <input>
+      <net-file value="networks.net.xml"/>
+   </input>
+   <time>
+      <begin value="0"/>
+      <end value="3600"/>
+   </time>
+   <processing>
+      <step-length value="0.25"/>
+   </processing>
 </configuration>
