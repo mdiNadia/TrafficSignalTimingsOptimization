@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<net version="1.0">
+    <node id="n1" visible="true" x="0.0" y="0.0" lat="35.6952764" lon="51.4099826"></node>
+    <node id="n2" visible="true" x="100.0" y="0.0" lat="35.6952764" lon="51.4099826"></node>
+    <node id="n3" visible="true" x="100.0" y="100.0" lat="35.6952764" lon="51.4099826"></node>
+    <node id="n4" visible="true" x="0.0" y="100.0" lat="35.6952764" lon="51.4099826"></node>
+
+    <!-- Define edges -->
+    <edge id="e1" from="n1" to="n2" numLanes="1" speed="13.9" function="internal"></edge>
+    <edge id="e2" from="n2" to="n3" numLanes="1" speed="13.9" function="internal"></edge>
+    <edge id="e3" from="n3" to="n4" numLanes="1" speed="13.9" function="internal"></edge>
+    <edge id="e4" from="n4" to="n1" numLanes="1" speed="13.9" function="internal"></edge>
+</net>

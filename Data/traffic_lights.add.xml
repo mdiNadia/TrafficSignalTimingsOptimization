@@ -1,8 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <additional>
-    <tlLogic id="junction1" type="static" programID="0" offset="0">
-        <phase duration="31" state="GrGr"/>
-        <phase duration="6" state="yryr"/>
-        <phase duration="31" state="rGrG"/>
-        <phase duration="6" state="ryry"/>
+    <tlLogic id="1" type="static" programID="0" offset="0">
+        <!-- فازهای چراغ راهنمایی -->
+        <phase duration="30" state="GGrr" />
+        <phase duration="30" state="yyrr" />
+        <phase duration="30" state="rrGG" />
+        <phase duration="30" state="rryy" />
     </tlLogic>
 </additional>
+

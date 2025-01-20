@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.0.1 (3288099 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="35.6933340" minlon="51.4167670" maxlat="35.6957390" maxlon="51.4222170"/>
+ <node id="25971740" visible="true" version="20" changeset="151253721" timestamp="2024-05-13T07:29:37Z" user="elsy1" uid="2038741" lat="35.6947465" lon="51.4198328">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="junction" v="yes"/>
+  <tag k="name" v="چهارراه استانبول"/>
+  <tag k="name:en" v="Istanbul Crossroad"/>
+ </node>
+ <node id="411824473" visible="true" version="8" changeset="50600986" timestamp="2017-07-26T20:48:21Z" user="dar44" uid="6127520" lat="35.6936095" lon="51.4231057"/>
+ <node id="424283278" visible="true" version="10" changeset="147584755" timestamp="2024-02-17T19:22:05Z" user="elsy1" uid="2038741" lat="35.6949844" lon="51.4142818">
+  <tag k="highway" v="crossing"/>
+  <tag k="name" v="چهارراه ادیان"/>
+ </node>
+ <node id="424283312" visible="true" version="10" changeset="151253721" timestamp="2024-05-13T07:29:37Z" user="elsy1" uid="2038741" lat="35.6976923" lon="51.4195686"/>
+ <node id="424400511" visible="true" version="8" changeset="145990818" timestamp="2024-01-07T13:20:40Z" user="elsy1" uid="2038741" lat="35.6975604" lon="51.4169911"/>
+ <node id="447880560" visible="true" version="7" changeset="144703690" timestamp="2023-12-02T20:42:57Z" user="elsy1" uid="2038741" lat="35.6949474" lon="51.4152052"/>
+ <node id="447880566" visible="true" version="11" changeset="151253721" timestamp="2024-05-13T07:29:37Z" user="elsy1" uid="2038741" lat="35.6910170" lon="51.4201672"/>
+ <node id="447880567" visible="true" version="10" changeset="151253721" timestamp="2024-05-13T07:29:37Z" user="elsy1" uid="2038741" lat="35.6927084" lon="51.4200155"/>
+ <node id="447880573" visible="true" version="8" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741" lat="35.6926631" lon="51.4172650"/>
+ <node id="863125775" visible="true" version="6" changeset="42880322" timestamp="2016-10-13T19:58:17Z" user="Khalil Laleh" uid="4449060" lat="35.6953620" lon="51.4082055"/>
+ <node id="863125777" visible="true" version="11" changeset="151253721" timestamp="2024-05-13T07:29:37Z" user="elsy1" uid="2038741" lat="35.6948204" lon="51.4198261">
+  <tag k="junction" v="yes"/>
+  <tag k="name" v="چهارراه استانبول"/>
+  <tag k="name:en" v="Istanbul Crossroad"/>
+ </node>
+ <node id="872184575" visible="true" version="7" changeset="70942691" timestamp="2019-06-05T02:32:00Z" user="Osm1980" uid="3743902" lat="35.6946666" lon="51.4195454">
+  <tag k="bus" v="yes"/>
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="میدان فردوسی"/>
+  <tag k="name:de" v="Firdausi-Platz"/>
+  <tag k="name:en" v="Ferdowsi Square"/>
+  <tag k="public_transport" v="platform"/>
+ </node>
+ <node id="872185379" visible="true" version="8" changeset="94691140" timestamp="2020-11-24T08:50:28Z" user="Mostafa Ahangarha" uid="3800783" lat="35.6949454" lon="51.4183009">
+  <tag k="bench" v="yes"/>
+  <tag k="bus" v="yes"/>
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="فردوسی"/>
+  <tag k="public_transport" v="platform"/>
+  <tag k="shelter" v="yes"/>
+ </node>
+ <node id="872260891" visible="true" version="5" changeset="144974161" timestamp="2023-12-10T18:44:24Z" user="elsy1" uid="2038741" lat="35.6936080" lon="51.4212131"/>
+ <node id="872260894" visible="true" version="4" changeset="42880322" timestamp="2016-10-13T19:58:24Z" user="Khalil Laleh" uid="4449060" lat="35.6935666" lon="51.4200624"/>
+ <node id="872260899" visible="true" version="4" changeset="42880322" timestamp="2016-10-13T19:58:24Z" user="Khalil Laleh" uid="4449060" lat="35.6946297" lon="51.4199605"/>
+ <node id="872260903" visible="true" version="5" changeset="144974161" timestamp="2023-12-10T18:44:24Z" user="elsy1" uid="2038741" lat="35.6941831" lon="51.4211594"/>
+ <node id="872265116" visible="true" version="6" changeset="144974161" timestamp="2023-12-10T18:44:24Z" user="elsy1" uid="2038741" lat="35.6927483" lon="51.4201295"/>
+ <node id="872265118" visible="true" version="6" changeset="144974161" timestamp="2023-12-10T18:44:24Z" user="elsy1" uid="2038741" lat="35.6927574" lon="51.4212871"/>
+ <node id="1333387955" visible="true" version="7" changeset="151253721" timestamp="2024-05-13T07:29:37Z" user="elsy1" uid="2038741" lat="35.6966973" lon="51.4196579"/>
+ <node id="1410146082" visible="true" version="8" changeset="146024166" timestamp="2024-01-08T11:01:43Z" user="elsy1" uid="2038741" lat="35.6950914" lon="51.4118969"/>
+ <node id="1924274038" visible="true" version="4" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741" lat="35.6934144" lon="51.4173273"/>
+ <node id="1924274149" visible="true" version="6" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741" lat="35.6930845" lon="51.4173699"/>
+ <node id="1924274156" visible="true" version="5" changeset="144703690" timestamp="2023-12-02T20:42:57Z" user="elsy1" uid="2038741" lat="35.6948488" lon="51.4174465"/>
+ <node id="1924274169" visible="true" version="6" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741" lat="35.6933422" lon="51.4173880"/>
+ <node id="1924274272" visible="true" version="3" changeset="42880693" timestamp="2016-10-13T20:22:29Z" user="Khalil Laleh" uid="4449060" lat="35.6933518" lon="51.4181615"/>
+ <node id="1924274471" visible="true" version="6" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741" lat="35.6932961" lon="51.4181745"/>
+ <node id="1924274500" visible="true" version="6" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741" lat="35.6930449" lon="51.4181510"/>
+ <node id="2048150071" visible="true" version="11" changeset="159120458" timestamp="2024-11-14T08:37:48Z" user="elsy1" uid="2038741" lat="35.6984143" lon="51.4195042"/>
+ <node id="2048166252" visible="true" version="7" changeset="144703690" timestamp="2023-12-02T20:42:57Z" user="elsy1" uid="2038741" lat="35.6950327" lon="51.4132663"/>
+ <node id="2048166307" visible="true" version="5" changeset="144703690" timestamp="2023-12-02T20:42:57Z" user="elsy1" uid="2038741" lat="35.6949083" lon="51.4160939"/>
+ <node id="2048172132" visible="true" version="5" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741" lat="35.6936306" lon="51.4163515"/>
+ <node id="2048172139" visible="true" version="4" changeset="147584755" timestamp="2024-02-17T19:22:05Z" user="elsy1" uid="2038741" lat="35.6932774" lon="51.4182631"/>
+ <node id="2048221653" visible="true" version="4" changeset="82409351" timestamp="2020-03-20T00:01:13Z" user="Suny2020" uid="10782412" lat="35.6939664" lon="51.4164180"/>
+ <node id="2048221654" visible="true" version="4" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741" lat="35.6939207" lon="51.4173692"/>
+ <node id="2048255535" visible="true" version="7" changeset="151253721" timestamp="2024-05-13T07:29:37Z" user="elsy1" uid="2038741" lat="35.6959719" lon="51.4197229"/>
+ <node id="2048255536" visible="true" version="8" changeset="151253721" timestamp="2024-05-13T07:29:37Z" user="elsy1" uid="2038741" lat="35.6911274" lon="51.4201573"/>
+ <node id="2048255551" visible="true" version="7" changeset="151253721" timestamp="2024-05-13T07:29:37Z" user="elsy1" uid="2038741" lat="35.6972481" lon="51.4196085"/>
+ <node id="2210390956" visible="true" version="4" changeset="127509133" timestamp="2022-10-14T07:51:02Z" user="elsy1" uid="2038741" lat="35.6930033" lon="51.4190884"/>
+ <node id="2210390957" visible="true" version="4" changeset="127509133" timestamp="2022-10-14T07:51:02Z" user="elsy1" uid="2038741" lat="35.6930165" lon="51.4190182"/>
+ <node id="2210390958" visible="true" version="4" changeset="127509133" timestamp="2022-10-14T07:51:02Z" user="elsy1" uid="2038741" lat="35.6930339" lon="51.4196644"/>
+ <node id="2210390961" visible="true" version="4" changeset="127509133" timestamp="2022-10-14T07:51:02Z" user="elsy1" uid="2038741" lat="35.6930470" lon="51.4189570"/>
+ <node id="2210390962" visible="true" version="4" changeset="127509133" timestamp="2022-10-14T07:51:02Z" user="elsy1" uid="2038741" lat="35.6930918" lon="51.4189107"/>
+ <node id="2210390963" visible="true" version="4" changeset="127509133" timestamp="2022-10-14T07:51:02Z" user="elsy1" uid="2038741" lat="35.6931462" lon="51.4188843"/>
+ <node id="2210390964" visible="true" version="4" changeset="127509133" timestamp="2022-10-14T07:51:02Z" user="elsy1" uid="2038741" lat="35.6932045" lon="51.4188805"/>
+ <node id="2210390965" visible="true" version="4" changeset="127509133" timestamp="2022-10-14T07:51:02Z" user="elsy1" uid="2038741" lat="35.6932609" lon="51.4188997"/>
+ <node id="2210390966" visible="true" version="4" changeset="127509133" timestamp="2022-10-14T07:51:02Z" user="elsy1" uid="2038741" lat="35.6933094" lon="51.4189399"/>
+ <node id="2210390967" visible="true" version="4" changeset="127509133" timestamp="2022-10-14T07:51:02Z" user="elsy1" uid="2038741" lat="35.6933450" lon="51.4189969"/>
+ <node id="2210390968" visible="true" version="4" changeset="127509133" timestamp="2022-10-14T07:51:02Z" user="elsy1" uid="2038741" lat="35.6933642" lon="51.4190649"/>
+ <node id="2210390969" visible="true" version="4" changeset="127509133" timestamp="2022-10-14T07:51:02Z" user="elsy1" uid="2038741" lat="35.6933944" lon="51.4196354"/>
+ <node id="3371494610" visible="true" version="2" changeset="145447687" timestamp="2023-12-23T19:20:37Z" user="elsy1" uid="2038741" lat="35.6974960" lon="51.4170622"/>
+ <node id="3371494611" visible="true" version="1" changeset="29087511" timestamp="2015-02-25T10:03:32Z" user="AmZaf" uid="25975" lat="35.6976289" lon="51.4194386"/>
+ <node id="3371494612" visible="true" version="2" changeset="151562149" timestamp="2024-05-20T06:27:31Z" user="Karindag" uid="635984" lat="35.6949453" lon="51.4195862"/>
+ <node id="3371494613" visible="true" version="1" changeset="29087511" timestamp="2015-02-25T10:03:32Z" user="AmZaf" uid="25975" lat="35.6950411" lon="51.4172928"/>
+ <node id="3482726509" visible="true" version="3" changeset="49776542" timestamp="2017-06-23T17:23:29Z" user="Im Watching You" uid="5380636" lat="35.6936808" lon="51.4231181"/>
+ <node id="3482726511" visible="true" version="1" changeset="30560695" timestamp="2015-04-27T21:16:15Z" user="andygol" uid="94578" lat="35.6949082" lon="51.4179347"/>
+ <node id="3482726512" visible="true" version="1" changeset="30560695" timestamp="2015-04-27T21:16:15Z" user="andygol" uid="94578" lat="35.6949406" lon="51.4172066"/>
+ <node id="3482726513" visible="true" version="2" changeset="144703690" timestamp="2023-12-02T20:42:57Z" user="elsy1" uid="2038741" lat="35.6949901" lon="51.4161236"/>
+ <node id="3482726515" visible="true" version="1" changeset="30560695" timestamp="2015-04-27T21:16:15Z" user="andygol" uid="94578" lat="35.6950305" lon="51.4152060"/>
+ <node id="3482726516" visible="true" version="1" changeset="30560695" timestamp="2015-04-27T21:16:15Z" user="andygol" uid="94578" lat="35.6950656" lon="51.4144351"/>
+ <node id="3482726517" visible="true" version="4" changeset="147584755" timestamp="2024-02-17T19:22:05Z" user="elsy1" uid="2038741" lat="35.6950716" lon="51.4142819">
+  <tag k="name" v="چهارراه ادیان"/>
+ </node>
+ <node id="3482726519" visible="true" version="2" changeset="144703690" timestamp="2023-12-02T20:42:57Z" user="elsy1" uid="2038741" lat="35.6951259" lon="51.4131371"/>
+ <node id="3482726520" visible="true" version="4" changeset="146024166" timestamp="2024-01-08T11:01:43Z" user="elsy1" uid="2038741" lat="35.6951820" lon="51.4119125"/>
+ <node id="3482726521" visible="true" version="1" changeset="30560695" timestamp="2015-04-27T21:16:16Z" user="andygol" uid="94578" lat="35.6951898" lon="51.4117478"/>
+ <node id="3482726524" visible="true" version="3" changeset="144703873" timestamp="2023-12-02T20:50:46Z" user="elsy1" uid="2038741" lat="35.6953262" lon="51.4089701"/>
+ <node id="3482726525" visible="true" version="1" changeset="30560695" timestamp="2015-04-27T21:16:16Z" user="andygol" uid="94578" lat="35.6954277" lon="51.4069156"/>
+ <node id="3482726526" visible="true" version="3" changeset="146180539" timestamp="2024-01-12T13:07:54Z" user="elsy1" uid="2038741" lat="35.6954352" lon="51.4067676"/>
+ <node id="3482726528" visible="true" version="6" changeset="148533597" timestamp="2024-03-12T06:16:11Z" user="elsy1" uid="2038741" lat="35.6955707" lon="51.4041754">
+  <tag k="description" v="اینجا در زمان قدیم سه راهی بوده و خیابان جمهوری (شاه) به سمت غرب امتداد نداشته است"/>
+  <tag k="junction" v="yes"/>
+  <tag k="name" v="سه راه جمهوری"/>
+ </node>
+ <node id="3906157565" visible="true" version="4" changeset="67000604" timestamp="2019-02-07T16:51:22Z" user="user_7006431" uid="7006431" lat="35.6948278" lon="51.4197407"/>
+ <node id="4225176242" visible="true" version="3" changeset="46185378" timestamp="2017-02-18T06:46:04Z" user="shokrian" uid="3790533" lat="35.6953429" lon="51.4200376">
+  <tag k="name" v="پاساژ فردوسی"/>
+  <tag k="shop" v="clothes"/>
+ </node>
+ <node id="4379258757" visible="true" version="1" changeset="41850113" timestamp="2016-09-01T14:12:18Z" user="freakyuser" uid="474715" lat="35.6941582" lon="51.4202522"/>
+ <node id="4379258758" visible="true" version="1" changeset="41850113" timestamp="2016-09-01T14:12:18Z" user="freakyuser" uid="474715" lat="35.6937449" lon="51.4202799"/>
+ <node id="4379258759" visible="true" version="1" changeset="41850113" timestamp="2016-09-01T14:12:18Z" user="freakyuser" uid="474715" lat="35.6937105" lon="51.4203515"/>
+ <node id="4379258760" visible="true" version="1" changeset="41850113" timestamp="2016-09-01T14:12:18Z" user="freakyuser" uid="474715" lat="35.6937195" lon="51.4205552"/>
+ <node id="4379258761" visible="true" version="1" changeset="41850113" timestamp="2016-09-01T14:12:18Z" user="freakyuser" uid="474715" lat="35.6937928" lon="51.4205503"/>
+ <node id="4379258762" visible="true" version="1" changeset="41850113" timestamp="2016-09-01T14:12:18Z" user="freakyuser" uid="474715" lat="35.6938026" lon="51.4207724"/>
+ <node id="4379258763" visible="true" version="1" changeset="41850113" timestamp="2016-09-01T14:12:18Z" user="freakyuser" uid="474715" lat="35.6940889" lon="51.4207532"/>
+ <node id="4379258764" visible="true" version="1" changeset="41850113" timestamp="2016-09-01T14:12:18Z" user="freakyuser" uid="474715" lat="35.6940796" lon="51.4205417"/>
+ <node id="4379258765" visible="true" version="1" changeset="41850113" timestamp="2016-09-01T14:12:18Z" user="freakyuser" uid="474715" lat="35.6941707" lon="51.4205356"/>
+ <node id="4379259050" visible="true" version="4" changeset="151253721" timestamp="2024-05-13T07:29:37Z" user="elsy1" uid="2038741" lat="35.6924127" lon="51.4200420"/>
+ <node id="4379264393" visible="true" version="3" changeset="113761432" timestamp="2021-11-14T12:47:44Z" user="Bathyscapher" uid="8889564" lat="35.6945972" lon="51.4196269">
+  <tag k="amenity" v="bureau_de_change"/>
+  <tag k="name:en" v="Raouf exchange"/>
+  <tag k="note" v="several in this area"/>
+ </node>
+ <node id="4396465090" visible="true" version="1" changeset="42084208" timestamp="2016-09-11T18:10:38Z" user="Cammelli" uid="4557293" lat="35.6947453" lon="51.4173837">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name:it" v="Istanbul-no restaurant iranian"/>
+ </node>
+ <node id="4420694289" visible="true" version="5" changeset="107636153" timestamp="2021-07-08T12:30:13Z" user="Claudius Henrichs" uid="18069" lat="35.6947164" lon="51.4168176">
+  <tag k="addr:street" v="جمهوری اسلامی"/>
+  <tag k="amenity" v="cafe"/>
+  <tag k="name" v="کافه نادری"/>
+  <tag k="name:en" v="Naderi Cafe"/>
+  <tag k="wikidata" v="Q5946116"/>
+ </node>
+ <node id="4430539193" visible="true" version="4" changeset="67498627" timestamp="2019-02-23T17:09:59Z" user="geoaria" uid="1858958" lat="35.6943900" lon="51.4215100">
+  <tag k="addr:street" v="جمهوری اسلامی"/>
+  <tag k="name" v="موبایل"/>
+  <tag k="opening_hours" v="24/7"/>
+  <tag k="shop" v="mobile_phone"/>
+ </node>
+ <node id="4475628692" visible="true" version="4" changeset="113761432" timestamp="2021-11-14T12:47:44Z" user="Bathyscapher" uid="8889564" lat="35.6946208" lon="51.4195956">
+  <tag k="name" v="قهوه ریو"/>
+  <tag k="name:en" v="Rio Coffee"/>
+  <tag k="shop" v="coffee"/>
+ </node>
+ <node id="4691725135" visible="true" version="5" changeset="117138193" timestamp="2022-02-07T22:29:44Z" user="iran map 28" uid="6081216" lat="35.6948090" lon="51.4207168">
+  <tag k="condition" v="very_horrible"/>
+  <tag k="name" v="پاساژ پلاسکو"/>
+  <tag k="shop" v="mall"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="4707926963" visible="true" version="4" changeset="144703690" timestamp="2023-12-02T20:42:57Z" user="elsy1" uid="2038741" lat="35.6950684" lon="51.4124554"/>
+ <node id="4707946165" visible="true" version="4" changeset="144703690" timestamp="2023-12-02T20:42:57Z" user="elsy1" uid="2038741" lat="35.6950441" lon="51.4130075"/>
+ <node id="4709843773" visible="true" version="1" changeset="46466845" timestamp="2017-02-28T12:42:23Z" user="Shahinnia" uid="3844346" lat="35.6946282" lon="51.4188572">
+  <tag k="amenity" v="bureau_de_change"/>
+  <tag k="name" v="صرافی صادقی"/>
+ </node>
+ <node id="4709843774" visible="true" version="1" changeset="46466845" timestamp="2017-02-28T12:42:23Z" user="Shahinnia" uid="3844346" lat="35.6946259" lon="51.4182277"/>
+ <node id="4709843775" visible="true" version="1" changeset="46466845" timestamp="2017-02-28T12:42:23Z" user="Shahinnia" uid="3844346" lat="35.6946259" lon="51.4180162"/>
+ <node id="4709843776" visible="true" version="1" changeset="46466845" timestamp="2017-02-28T12:42:23Z" user="Shahinnia" uid="3844346" lat="35.6947106" lon="51.4180162"/>
+ <node id="4709843777" visible="true" version="1" changeset="46466845" timestamp="2017-02-28T12:42:23Z" user="Shahinnia" uid="3844346" lat="35.6947106" lon="51.4182277"/>
+ <node id="4709843778" visible="true" version="1" changeset="46466845" timestamp="2017-02-28T12:42:23Z" user="Shahinnia" uid="3844346" lat="35.6946867" lon="51.4182719">
+  <tag k="amenity" v="bureau_de_change"/>
+  <tag k="name" v="صرافی نور"/>
+ </node>
+ <node id="4709843779" visible="true" version="2" changeset="57479092" timestamp="2018-03-24T09:53:54Z" user="Osm1980" uid="3743902" lat="35.6938188" lon="51.4192355"/>
+ <node id="4709843780" visible="true" version="2" changeset="57479092" timestamp="2018-03-24T09:53:54Z" user="Osm1980" uid="3743902" lat="35.6938112" lon="51.4189136"/>
+ <node id="4709843782" visible="true" version="2" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741" lat="35.6946726" lon="51.4188864"/>
+ <node id="4709843784" visible="true" version="1" changeset="46466845" timestamp="2017-02-28T12:42:23Z" user="Shahinnia" uid="3844346" lat="35.6940240" lon="51.4192551"/>
+ <node id="4709843785" visible="true" version="1" changeset="46466845" timestamp="2017-02-28T12:42:23Z" user="Shahinnia" uid="3844346" lat="35.6940066" lon="51.4192015"/>
+ <node id="4709843786" visible="true" version="1" changeset="46466845" timestamp="2017-02-28T12:42:23Z" user="Shahinnia" uid="3844346" lat="35.6938912" lon="51.4192110"/>
+ <node id="4709843787" visible="true" version="1" changeset="46466845" timestamp="2017-02-28T12:42:23Z" user="Shahinnia" uid="3844346" lat="35.6938869" lon="51.4192485"/>
+ <node id="4709843788" visible="true" version="4" changeset="151253721" timestamp="2024-05-13T07:29:37Z" user="elsy1" uid="2038741" lat="35.6938860" lon="51.4199099"/>
+ <node id="4709844389" visible="true" version="2" changeset="67000604" timestamp="2019-02-07T16:51:23Z" user="user_7006431" uid="7006431" lat="35.6938605" lon="51.4192880"/>
+ <node id="4711977696" visible="true" version="2" changeset="47554088" timestamp="2017-04-07T22:15:44Z" user="goldenfly5" uid="5176747" lat="35.6939368" lon="51.4222072"/>
+ <node id="4711977697" visible="true" version="2" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6943281" lon="51.4224141"/>
+ <node id="4711977698" visible="true" version="3" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6947508" lon="51.4202081"/>
+ <node id="4711977699" visible="true" version="3" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6947100" lon="51.4204327"/>
+ <node id="4711977700" visible="true" version="3" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6952365" lon="51.4206211"/>
+ <node id="4711977701" visible="true" version="3" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6952393" lon="51.4203878"/>
+ <node id="4711977714" visible="true" version="1" changeset="46498695" timestamp="2017-03-01T16:40:56Z" user="Shahinnia" uid="3844346" lat="35.6934807" lon="51.4222545"/>
+ <node id="4711977717" visible="true" version="1" changeset="46498695" timestamp="2017-03-01T16:40:56Z" user="Shahinnia" uid="3844346" lat="35.6937944" lon="51.4222437"/>
+ <node id="4711977718" visible="true" version="1" changeset="46498695" timestamp="2017-03-01T16:40:56Z" user="Shahinnia" uid="3844346" lat="35.6936942" lon="51.4222276"/>
+ <node id="4721554991" visible="true" version="4" changeset="67000604" timestamp="2019-02-07T16:51:22Z" user="user_7006431" uid="7006431" lat="35.6993702" lon="51.4194182"/>
+ <node id="4721762072" visible="true" version="2" changeset="144703690" timestamp="2023-12-02T20:42:57Z" user="elsy1" uid="2038741" lat="35.6948828" lon="51.4166754"/>
+ <node id="4736472155" visible="true" version="2" changeset="55527735" timestamp="2018-01-17T17:21:23Z" user="ebraplmap" uid="7150248" lat="35.6951580" lon="51.4124675"/>
+ <node id="4736472156" visible="true" version="1" changeset="46874172" timestamp="2017-03-15T16:38:56Z" user="Claudius Henrichs" uid="18069" lat="35.6939890" lon="51.4222432"/>
+ <node id="4736472157" visible="true" version="4" changeset="67000604" timestamp="2019-02-07T16:51:22Z" user="user_7006431" uid="7006431" lat="35.6938819" lon="51.4198203"/>
+ <node id="4736472158" visible="true" version="5" changeset="144703690" timestamp="2023-12-02T20:42:57Z" user="elsy1" uid="2038741" lat="35.6947476" lon="51.4197490"/>
+ <node id="4736472163" visible="true" version="4" changeset="67000604" timestamp="2019-02-07T16:51:22Z" user="user_7006431" uid="7006431" lat="35.6910100" lon="51.4200627"/>
+ <node id="4782967321" visible="true" version="5" changeset="113761432" timestamp="2021-11-14T12:47:44Z" user="Bathyscapher" uid="8889564" lat="35.6940983" lon="51.4196954">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="رستوران باستان"/>
+  <tag k="name:en" v="Restaurant Bastan"/>
+ </node>
+ <node id="4827474662" visible="true" version="2" changeset="109503813" timestamp="2021-08-11T08:51:13Z" user="Reza_Kazemi75" uid="8983560" lat="35.6950242" lon="51.4172021">
+  <tag k="barrier" v="yes"/>
+ </node>
+ <node id="4932704306" visible="true" version="7" changeset="145990818" timestamp="2024-01-07T13:20:40Z" user="elsy1" uid="2038741" lat="35.6976887" lon="51.4194993"/>
+ <node id="4932704307" visible="true" version="5" changeset="145568856" timestamp="2023-12-27T11:01:24Z" user="elsy1" uid="2038741" lat="35.6994580" lon="51.4193516"/>
+ <node id="4932704308" visible="true" version="9" changeset="159120458" timestamp="2024-11-14T08:37:48Z" user="elsy1" uid="2038741" lat="35.6984116" lon="51.4194386"/>
+ <node id="4932704309" visible="true" version="5" changeset="145568856" timestamp="2023-12-27T11:01:24Z" user="elsy1" uid="2038741" lat="35.6999338" lon="51.4193099"/>
+ <node id="4933914821" visible="true" version="3" changeset="134200512" timestamp="2023-03-28T03:30:32Z" user="mrash14" uid="2350452" lat="35.6950322" lon="51.4170770">
+  <tag k="addr:street" v="جمهوری اسلامی"/>
+  <tag k="name" v="پارکر لطیفی"/>
+  <tag k="name:en" v="Parker Latifi"/>
+  <tag k="opening_hours" v="Sa-Th 09:00-14:00, 16:00-20:00"/>
+  <tag k="phone" v="+98 21 6670 2832"/>
+  <tag k="shop" v="books"/>
+  <tag k="website" v="https://www.parkerlatifi.com/"/>
+ </node>
+ <node id="4995561417" visible="true" version="1" changeset="50600986" timestamp="2017-07-26T20:48:21Z" user="dar44" uid="6127520" lat="35.6952669" lon="51.4205188"/>
+ <node id="4995561418" visible="true" version="3" changeset="151253721" timestamp="2024-05-13T07:29:37Z" user="elsy1" uid="2038741" lat="35.6952323" lon="51.4197892"/>
+ <node id="5110936026" visible="true" version="1" changeset="52116375" timestamp="2017-09-17T12:30:31Z" user="Jemy Ka" uid="5708395" lat="35.6934102" lon="51.4199453">
+  <tag k="amenity" v="bureau_de_change"/>
+  <tag k="name:zh" v="找換店"/>
+ </node>
+ <node id="5169768121" visible="true" version="2" changeset="144668639" timestamp="2023-12-01T16:35:21Z" user="Finn" uid="135590" lat="35.6939930" lon="51.4216702">
+  <tag k="name" v="مجتمع تجاری پروانه"/>
+  <tag k="shop" v="department_store"/>
+  <tag k="toilets" v="yes"/>
+ </node>
+ <node id="5500490714" visible="true" version="1" changeset="57479092" timestamp="2018-03-24T09:53:54Z" user="Osm1980" uid="3743902" lat="35.6946590" lon="51.4191309"/>
+ <node id="5500490715" visible="true" version="1" changeset="57479092" timestamp="2018-03-24T09:53:54Z" user="Osm1980" uid="3743902" lat="35.6945198" lon="51.4191277"/>
+ <node id="5500490716" visible="true" version="1" changeset="57479092" timestamp="2018-03-24T09:53:54Z" user="Osm1980" uid="3743902" lat="35.6945184" lon="51.4192182"/>
+ <node id="5637867545" visible="true" version="4" changeset="65890542" timestamp="2018-12-30T15:54:26Z" user="Navid Hosseinzadeh" uid="3479687" lat="35.6936206" lon="51.4181347">
+  <tag k="name" v="فردوسی"/>
+  <tag k="name:en" v="Ferdowsi"/>
+  <tag k="place" v="neighbourhood"/>
+ </node>
+ <node id="5954093786" visible="true" version="3" changeset="73054291" timestamp="2019-08-06T08:33:38Z" user="Claudius Henrichs" uid="18069" lat="35.6947089" lon="51.4178009">
+  <tag k="amenity" v="cafe"/>
+  <tag k="name:en" v="Khatoon Cafe Shisha Smoking"/>
+ </node>
+ <node id="6116690755" visible="true" version="2" changeset="70942691" timestamp="2019-06-05T02:32:00Z" user="Osm1980" uid="3743902" lat="35.6950861" lon="51.4199510">
+  <tag k="amenity" v="bank"/>
+  <tag k="atm" v="yes"/>
+  <tag k="brand" v="بانک ملت"/>
+  <tag k="brand:en" v="Bank Mellat"/>
+  <tag k="brand:wikidata" v="Q4855944"/>
+  <tag k="brand:wikipedia" v="en:Bank Mellat"/>
+  <tag k="name" v="بانک ملت"/>
+  <tag k="name:en" v="Bank Mellat"/>
+ </node>
+ <node id="6116690760" visible="true" version="1" changeset="65171643" timestamp="2018-12-04T19:21:22Z" user="iran map 28" uid="6081216" lat="35.6938801" lon="51.4220726">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="رستوران بهاران"/>
+ </node>
+ <node id="6116690762" visible="true" version="1" changeset="65171643" timestamp="2018-12-04T19:21:23Z" user="iran map 28" uid="6081216" lat="35.6941023" lon="51.4221717">
+  <tag k="amenity" v="place_of_worship"/>
+  <tag k="name" v="مسجد هدایت"/>
+  <tag k="religion" v="muslim"/>
+ </node>
+ <node id="6116690763" visible="true" version="1" changeset="65171643" timestamp="2018-12-04T19:21:23Z" user="iran map 28" uid="6081216" lat="35.6938050" lon="51.4218859">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="رستوران ممتاز"/>
+ </node>
+ <node id="6202304285" visible="true" version="1" changeset="66241101" timestamp="2019-01-11T22:39:57Z" user="raminrad" uid="9347955" lat="35.6947635" lon="51.4198209">
+  <tag k="amenity" v="drinking_water"/>
+  <tag k="name" v="چهار راه استانبول"/>
+ </node>
+ <node id="6216681485" visible="true" version="2" changeset="123807249" timestamp="2022-07-19T12:53:33Z" user="m_bakhshipour" uid="10181937" lat="35.6951794" lon="51.4199951">
+  <tag k="amenity" v="fast_food"/>
+  <tag k="name" v="فست فود دومینو"/>
+ </node>
+ <node id="6259509475" visible="true" version="3" changeset="99019803" timestamp="2021-02-10T06:53:26Z" user="shokrian" uid="3790533" lat="35.7012358" lon="51.4192007"/>
+ <node id="6259623223" visible="true" version="6" changeset="161482626" timestamp="2025-01-18T08:50:11Z" user="siavash_mohammadi" uid="9620631" lat="35.6900411" lon="51.4202227"/>
+ <node id="6264276153" visible="true" version="2" changeset="143061887" timestamp="2023-10-24T12:12:32Z" user="elsy1" uid="2038741" lat="35.7005885" lon="51.4192547"/>
+ <node id="6318783843" visible="true" version="6" changeset="144703873" timestamp="2023-12-02T20:50:46Z" user="elsy1" uid="2038741" lat="35.6952833" lon="51.4098000"/>
+ <node id="6414967921" visible="true" version="4" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6934287" lon="51.4188302"/>
+ <node id="6414967925" visible="true" version="4" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6937738" lon="51.4187991"/>
+ <node id="6414967936" visible="true" version="4" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6934821" lon="51.4197313"/>
+ <node id="6414967949" visible="true" version="4" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6938273" lon="51.4197003"/>
+ <node id="6645046938" visible="true" version="1" changeset="72621660" timestamp="2019-07-24T23:22:20Z" user="DharmaBum" uid="2886100" lat="35.6956648" lon="51.4186460"/>
+ <node id="6645046939" visible="true" version="1" changeset="72621660" timestamp="2019-07-24T23:22:20Z" user="DharmaBum" uid="2886100" lat="35.6955242" lon="51.4186587"/>
+ <node id="6645046940" visible="true" version="1" changeset="72621660" timestamp="2019-07-24T23:22:20Z" user="DharmaBum" uid="2886100" lat="35.6955138" lon="51.4184844"/>
+ <node id="6645046941" visible="true" version="1" changeset="72621660" timestamp="2019-07-24T23:22:20Z" user="DharmaBum" uid="2886100" lat="35.6956544" lon="51.4184717"/>
+ <node id="6687238147" visible="true" version="2" changeset="102248211" timestamp="2021-04-03T19:01:31Z" user="Claudius Henrichs" uid="18069" lat="35.6964584" lon="51.4195976"/>
+ <node id="7141490239" visible="true" version="2" changeset="148533597" timestamp="2024-03-12T06:16:11Z" user="elsy1" uid="2038741" lat="35.6955668" lon="51.4042394">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7310684913" visible="true" version="1" changeset="82409351" timestamp="2020-03-20T00:01:13Z" user="Suny2020" uid="10782412" lat="35.6939772" lon="51.4164576"/>
+ <node id="7310684914" visible="true" version="1" changeset="82409351" timestamp="2020-03-20T00:01:13Z" user="Suny2020" uid="10782412" lat="35.6939468" lon="51.4163990"/>
+ <node id="7335610488" visible="true" version="3" changeset="127526048" timestamp="2022-10-14T13:27:02Z" user="elsy1" uid="2038741" lat="35.6937880" lon="51.4181305"/>
+ <node id="7335610489" visible="true" version="3" changeset="127526048" timestamp="2022-10-14T13:27:02Z" user="elsy1" uid="2038741" lat="35.6934393" lon="51.4181520"/>
+ <node id="7335610490" visible="true" version="3" changeset="127526048" timestamp="2022-10-14T13:27:02Z" user="elsy1" uid="2038741" lat="35.6934472" lon="51.4183450"/>
+ <node id="7335610491" visible="true" version="3" changeset="127526048" timestamp="2022-10-14T13:27:02Z" user="elsy1" uid="2038741" lat="35.6937958" lon="51.4183236"/>
+ <node id="7345560197" visible="true" version="3" changeset="147584755" timestamp="2024-02-17T19:22:05Z" user="elsy1" uid="2038741" lat="35.6968784" lon="51.4170478"/>
+ <node id="7345560199" visible="true" version="2" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741" lat="35.6943270" lon="51.4174029"/>
+ <node id="7345560200" visible="true" version="1" changeset="82809035" timestamp="2020-03-30T07:32:12Z" user="hamidMA" uid="10368560" lat="35.6943655" lon="51.4168823"/>
+ <node id="7345560201" visible="true" version="2" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741" lat="35.6941346" lon="51.4173869"/>
+ <node id="7345560202" visible="true" version="1" changeset="82809035" timestamp="2020-03-30T07:32:12Z" user="hamidMA" uid="10368560" lat="35.6941041" lon="51.4180598"/>
+ <node id="7855361396" visible="true" version="3" changeset="144703873" timestamp="2023-12-02T20:50:46Z" user="elsy1" uid="2038741" lat="35.6953434" lon="51.4086037"/>
+ <node id="7855361397" visible="true" version="2" changeset="144703873" timestamp="2023-12-02T20:50:46Z" user="elsy1" uid="2038741" lat="35.6953113" lon="51.4092226"/>
+ <node id="7908186110" visible="true" version="2" changeset="158457284" timestamp="2024-10-28T13:50:47Z" user="tvchkisdsd" uid="14540902" lat="35.6952722" lon="51.4100730"/>
+ <node id="7908186115" visible="true" version="3" changeset="144703873" timestamp="2023-12-02T20:50:46Z" user="elsy1" uid="2038741" lat="35.6952431" lon="51.4105318"/>
+ <node id="7928008739" visible="true" version="2" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741" lat="35.6938050" lon="51.4173596"/>
+ <node id="7928008740" visible="true" version="1" changeset="91225362" timestamp="2020-09-21T11:21:17Z" user="mahmoudabadi_fm" uid="10812576" lat="35.6938425" lon="51.4169277"/>
+ <node id="7928008741" visible="true" version="1" changeset="91225362" timestamp="2020-09-21T11:21:17Z" user="mahmoudabadi_fm" uid="10812576" lat="35.6939596" lon="51.4167425"/>
+ <node id="7928172657" visible="true" version="2" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741" lat="35.6938840" lon="51.4173662"/>
+ <node id="7928172658" visible="true" version="1" changeset="91230582" timestamp="2020-09-21T12:43:27Z" user="mahmoudabadi_fm" uid="10812576" lat="35.6938537" lon="51.4180890"/>
+ <node id="7928219360" visible="true" version="2" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741" lat="35.6932571" lon="51.4173142"/>
+ <node id="8041602586" visible="true" version="1" changeset="92979591" timestamp="2020-10-24T06:41:03Z" user="Ahmediza" uid="8898410" lat="35.6947195" lon="51.4167904">
+  <tag k="name:ar" v="مقهى نادري مسلسل شهرزاد"/>
+  <tag k="tourism" v="attraction"/>
+ </node>
+ <node id="8317742495" visible="true" version="2" changeset="97665857" timestamp="2021-01-18T05:04:38Z" user="RounakZA" uid="10607004" lat="35.6952764" lon="51.4099826"/>
+ <node id="8752402259" visible="true" version="2" changeset="134209434" timestamp="2023-03-28T08:38:48Z" user="mrash14" uid="2350452" lat="35.6936389" lon="51.4216466">
+  <tag k="addr:city" v="Tehran"/>
+  <tag k="addr:housenumber" v="293"/>
+  <tag k="addr:street" v="جمهوری اسلامی"/>
+  <tag k="brand" v="گالری مبرا"/>
+  <tag k="name" v="گالری مبرا"/>
+  <tag k="note" v="گالری مبرا از سال 1386 شروع به کار کرده است و تخصص خود را در زمینه کارشناسی سنگ و صنایع دستی پیش برده. این گالری واقع در مرکز تهران میباشد و محصولاتی مانند فرش، گلیم، انواع سنگ های زینتی و دکوراتیو و انواع لوازم صنایع دستی را داراست."/>
+  <tag k="opening_hours" v="Su-Fr 14:00-21:00"/>
+  <tag k="operator" v="صنایع دستی و سنگ های طبیعی"/>
+  <tag k="payment:cashe" v="yes"/>
+  <tag k="phone" v="+98 21 3395 4011"/>
+  <tag k="shop" v="jewelry"/>
+  <tag k="website" v="mobarra-shop.ir"/>
+ </node>
+ <node id="8810926832" visible="true" version="1" changeset="105953449" timestamp="2021-06-07T07:57:54Z" user="RiccardoPitoni" uid="6774675" lat="35.6953838" lon="51.4217584">
+  <tag k="addr:city" v="تهران"/>
+  <tag k="addr:street" v="ژاندارک"/>
+  <tag k="amenity" v="place_of_worship"/>
+  <tag k="denomination" v="syriac_catholic"/>
+  <tag k="name" v="کلیسای ژاندارک (لازار)"/>
+  <tag k="name:en" v="Jeanne D'Arc Assyrian Catholic Church"/>
+  <tag k="religion" v="christian"/>
+ </node>
+ <node id="8810934941" visible="true" version="2" changeset="135205264" timestamp="2023-04-21T18:13:29Z" user="elsy1" uid="2038741" lat="35.6961745" lon="51.4216726"/>
+ <node id="8810934942" visible="true" version="2" changeset="135205264" timestamp="2023-04-21T18:13:29Z" user="elsy1" uid="2038741" lat="35.6958847" lon="51.4224879"/>
+ <node id="8810934943" visible="true" version="1" changeset="105953305" timestamp="2021-06-07T07:55:59Z" user="RiccardoPitoni" uid="6774675" lat="35.6950919" lon="51.4222573"/>
+ <node id="8810934944" visible="true" version="1" changeset="105953305" timestamp="2021-06-07T07:55:59Z" user="RiccardoPitoni" uid="6774675" lat="35.6953707" lon="51.4213239"/>
+ <node id="8911207710" visible="true" version="2" changeset="113761432" timestamp="2021-11-14T12:47:44Z" user="Bathyscapher" uid="8889564" lat="35.6946161" lon="51.4193347">
+  <tag k="name" v="پاساژ معتمد"/>
+  <tag k="shop" v="supermarket"/>
+ </node>
+ <node id="8953497123" visible="true" version="3" changeset="151253721" timestamp="2024-05-13T07:29:37Z" user="elsy1" uid="2038741" lat="35.6901767" lon="51.4202425"/>
+ <node id="9017890109" visible="true" version="2" changeset="145447687" timestamp="2023-12-23T19:20:37Z" user="elsy1" uid="2038741" lat="35.6965247" lon="51.4171709"/>
+ <node id="9017890116" visible="true" version="2" changeset="145447687" timestamp="2023-12-23T19:20:37Z" user="elsy1" uid="2038741" lat="35.6960778" lon="51.4172063"/>
+ <node id="9017890124" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6960592" lon="51.4172367"/>
+ <node id="9017890126" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6959780" lon="51.4172413"/>
+ <node id="9017890134" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6954482" lon="51.4195484"/>
+ <node id="9017890135" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6954003" lon="51.4176467"/>
+ <node id="9017890176" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6964208" lon="51.4189974"/>
+ <node id="9017890177" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6958017" lon="51.4190311"/>
+ <node id="9017890178" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6957050" lon="51.4190819"/>
+ <node id="9017890179" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6956827" lon="51.4191270"/>
+ <node id="9017890196" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6976099" lon="51.4191352"/>
+ <node id="9017890197" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6975902" lon="51.4187594"/>
+ <node id="9017890199" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6961514" lon="51.4195508"/>
+ <node id="9017890202" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6960162" lon="51.4195623"/>
+ <node id="9017890203" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6963386" lon="51.4195355"/>
+ <node id="9017890207" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6950213" lon="51.4177022"/>
+ <node id="9017890208" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6952327" lon="51.4177059"/>
+ <node id="9017890209" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6952317" lon="51.4177972"/>
+ <node id="9017890210" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6950202" lon="51.4177935"/>
+ <node id="9017890211" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6952579" lon="51.4172779"/>
+ <node id="9017890212" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6952696" lon="51.4176253"/>
+ <node id="9017890213" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6950663" lon="51.4176331"/>
+ <node id="9017890214" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6950543" lon="51.4172913"/>
+ <node id="9017890215" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6953987" lon="51.4172707"/>
+ <node id="9017890216" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6954105" lon="51.4176180"/>
+ <node id="9017890217" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6959010" lon="51.4172424"/>
+ <node id="9017890222" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6957409" lon="51.4172508"/>
+ <node id="9017890223" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6959745" lon="51.4172405"/>
+ <node id="9017890227" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6959237" lon="51.4172443"/>
+ <node id="9017890228" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6960106" lon="51.4194024"/>
+ <node id="9017890229" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6956904" lon="51.4195795"/>
+ <node id="9017890230" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6956848" lon="51.4194195"/>
+ <node id="9017890235" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454" lat="35.6954391" lon="51.4191463"/>
+ <node id="9164595934" visible="true" version="2" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741" lat="35.6927693" lon="51.4172738"/>
+ <node id="9306734017" visible="true" version="1" changeset="114490058" timestamp="2021-12-02T16:30:32Z" user="Vira company" uid="13188131" lat="35.6936677" lon="51.4219962">
+  <tag k="name" v="موسسه تولید و پخش سام من (خمسه)"/>
+  <tag k="shop" v="clothes"/>
+ </node>
+ <node id="9488074483" visible="true" version="4" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6949132" lon="51.4206674"/>
+ <node id="9488074484" visible="true" version="4" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6954995" lon="51.4212070"/>
+ <node id="9488074486" visible="true" version="4" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6958426" lon="51.4209515"/>
+ <node id="9488074487" visible="true" version="4" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6948431" lon="51.4209661"/>
+ <node id="9520495146" visible="true" version="1" changeset="117619853" timestamp="2022-02-19T21:17:42Z" user="hamidrezabahoush" uid="15009851" lat="35.6940056" lon="51.4221945"/>
+ <node id="9520495147" visible="true" version="2" changeset="117620465" timestamp="2022-02-19T21:42:04Z" user="hamidrezabahoush" uid="15009851" lat="35.6937174" lon="51.4218959">
+  <tag k="addr:city" v="Tehran"/>
+  <tag k="addr:street" v="ناصر شرقی پاساژ مرکزی"/>
+  <tag k="name" v="تولید و پخش اکسین جین"/>
+  <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
+  <tag k="operator" v="باهوش"/>
+  <tag k="phone" v="+989128028426"/>
+  <tag k="shop" v="clothes"/>
+ </node>
+ <node id="9546765448" visible="true" version="1" changeset="117968434" timestamp="2022-03-01T07:55:55Z" user="osmword" uid="12314223" lat="35.6936986" lon="51.4228611"/>
+ <node id="9546765449" visible="true" version="1" changeset="117968434" timestamp="2022-03-01T07:55:55Z" user="osmword" uid="12314223" lat="35.6937191" lon="51.4230093"/>
+ <node id="9861635199" visible="true" version="1" changeset="123106123" timestamp="2022-07-02T04:06:47Z" user="🅢🅐🅜🅐🅝➤" uid="12256000" lat="35.6951760" lon="51.4120793">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="9889976018" visible="true" version="1" changeset="123657109" timestamp="2022-07-15T14:42:42Z" user="Vira company" uid="13188131" lat="35.6939528" lon="51.4219495">
+  <tag k="amenity" v="fast_food"/>
+  <tag k="name" v="کوکیدو کنتاکی"/>
+ </node>
+ <node id="9931804051" visible="true" version="1" changeset="124481694" timestamp="2022-08-04T13:34:26Z" user="user_9434724" uid="9434724" lat="35.6946044" lon="51.4199629"/>
+ <node id="10101131509" visible="true" version="1" changeset="127526048" timestamp="2022-10-14T13:27:02Z" user="elsy1" uid="2038741" lat="35.6946302" lon="51.4196247">
+  <tag k="amenity" v="bureau_de_change"/>
+  <tag k="name" v="Milad Exchange"/>
+ </node>
+ <node id="10272803514" visible="true" version="1" changeset="130237471" timestamp="2022-12-19T08:23:49Z" user="Marziyeh Bashiri" uid="6363900" lat="35.6900669" lon="51.4201529"/>
+ <node id="10272803515" visible="true" version="1" changeset="130237471" timestamp="2022-12-19T08:23:49Z" user="Marziyeh Bashiri" uid="6363900" lat="35.6901224" lon="51.4201261"/>
+ <node id="10272803516" visible="true" version="1" changeset="130237471" timestamp="2022-12-19T08:23:49Z" user="Marziyeh Bashiri" uid="6363900" lat="35.6902792" lon="51.4201087"/>
+ <node id="10584543303" visible="true" version="1" changeset="131740838" timestamp="2023-01-26T17:03:11Z" user="solenoid jam" uid="10129333" lat="35.6936874" lon="51.4215222">
+  <tag k="name" v="پارکینگ"/>
+  <tag k="name:en" v="Jomeh Friday Bazaar"/>
+  <tag k="name:ru" v="Пятничный базар"/>
+  <tag k="opening_hours" v="Fr 07:00-15:00"/>
+ </node>
+ <node id="10594317927" visible="true" version="1" changeset="131885338" timestamp="2023-01-30T15:09:34Z" user="Nastaran_Sabouri" uid="10924444" lat="35.6947417" lon="51.4168042">
+  <tag k="name" v="هتل نادری"/>
+  <tag k="tourism" v="hotel"/>
+ </node>
+ <node id="10833903294" visible="true" version="2" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6946120" lon="51.4206191"/>
+ <node id="10833903295" visible="true" version="2" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6948884" lon="51.4207164"/>
+ <node id="10833903296" visible="true" version="2" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6948164" lon="51.4210185"/>
+ <node id="10833903297" visible="true" version="2" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6945300" lon="51.4209150"/>
+ <node id="11148314205" visible="true" version="1" changeset="140452847" timestamp="2023-08-27T13:58:54Z" user="Sabtifa" uid="18563308" lat="35.6939113" lon="51.4219936">
+  <tag k="amenity" v="ice_cream"/>
+  <tag k="name" v="بهار ترافیک"/>
+ </node>
+ <node id="11297458838" visible="true" version="1" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6957688" lon="51.4212723"/>
+ <node id="11297458839" visible="true" version="1" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6953779" lon="51.4208193"/>
+ <node id="11297458840" visible="true" version="1" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6946901" lon="51.4208131">
+  <tag k="aeroway" v="helipad"/>
+ </node>
+ <node id="11297458841" visible="true" version="1" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6952488" lon="51.4205802"/>
+ <node id="11297458842" visible="true" version="1" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6952436" lon="51.4205171"/>
+ <node id="11297458843" visible="true" version="1" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6952132" lon="51.4205049"/>
+ <node id="11297471784" visible="true" version="1" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6928283" lon="51.4218130"/>
+ <node id="11297471785" visible="true" version="2" changeset="144974161" timestamp="2023-12-10T18:44:24Z" user="elsy1" uid="2038741" lat="35.6939714" lon="51.4216939"/>
+ <node id="11297471786" visible="true" version="2" changeset="144974161" timestamp="2023-12-10T18:44:24Z" user="elsy1" uid="2038741" lat="35.6939601" lon="51.4215143"/>
+ <node id="11297471787" visible="true" version="2" changeset="144974161" timestamp="2023-12-10T18:44:24Z" user="elsy1" uid="2038741" lat="35.6939032" lon="51.4215186"/>
+ <node id="11297471788" visible="true" version="1" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6938919" lon="51.4213999"/>
+ <node id="11297471789" visible="true" version="1" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6935777" lon="51.4214344"/>
+ <node id="11297471790" visible="true" version="1" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6935767" lon="51.4214578"/>
+ <node id="11297471791" visible="true" version="1" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6935207" lon="51.4214640"/>
+ <node id="11297471792" visible="true" version="1" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6934057" lon="51.4214812"/>
+ <node id="11297471793" visible="true" version="1" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6934077" lon="51.4214578"/>
+ <node id="11297471794" visible="true" version="1" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741" lat="35.6928134" lon="51.4215194"/>
+ <node id="11407943578" visible="true" version="1" changeset="144974161" timestamp="2023-12-10T18:44:24Z" user="elsy1" uid="2038741" lat="35.6939801" lon="51.4216958"/>
+ <node id="11407943579" visible="true" version="1" changeset="144974161" timestamp="2023-12-10T18:44:24Z" user="elsy1" uid="2038741" lat="35.6939093" lon="51.4219049"/>
+ <node id="11407943580" visible="true" version="1" changeset="144974161" timestamp="2023-12-10T18:44:24Z" user="elsy1" uid="2038741" lat="35.6935402" lon="51.4219431"/>
+ <node id="11407943581" visible="true" version="1" changeset="144974161" timestamp="2023-12-10T18:44:24Z" user="elsy1" uid="2038741" lat="35.6935318" lon="51.4217397"/>
+ <node id="11407943582" visible="true" version="1" changeset="144974161" timestamp="2023-12-10T18:44:24Z" user="elsy1" uid="2038741" lat="35.6931094" lon="51.4219916"/>
+ <node id="11407943583" visible="true" version="1" changeset="144974161" timestamp="2023-12-10T18:44:24Z" user="elsy1" uid="2038741" lat="35.6930922" lon="51.4217855"/>
+ <node id="11581223325" visible="true" version="2" changeset="149393036" timestamp="2024-03-31T14:29:40Z" user="Osm1980" uid="3743902" lat="35.6954280" lon="51.4201818">
+  <tag k="addr:city" v="تهران"/>
+  <tag k="addr:street" v="خیابان جمهوری اسلامی، چهار راه استانبول، خیابان فردوسی، پاساژفردوسی"/>
+  <tag k="clothes" v="women;children;men;hats"/>
+  <tag k="name" v="فروشگاه اینترنتی می یو کالا"/>
+  <tag k="opening_hours" v="08:00-19:00"/>
+  <tag k="operator:en" v="meukala"/>
+  <tag k="phone" v="+982191096491"/>
+  <tag k="shop" v="outpost"/>
+ </node>
+ <node id="11635536473" visible="true" version="2" changeset="151253721" timestamp="2024-05-13T07:29:37Z" user="elsy1" uid="2038741" lat="35.6929552" lon="51.4199934"/>
+ <node id="11687952512" visible="true" version="1" changeset="148171790" timestamp="2024-03-03T15:54:40Z" user="arman@jb08" uid="21145323" lat="35.6933021" lon="51.4219699"/>
+ <node id="11687952513" visible="true" version="1" changeset="148171790" timestamp="2024-03-03T15:54:40Z" user="arman@jb08" uid="21145323" lat="35.6933204" lon="51.4221768"/>
+ <node id="11687952515" visible="true" version="1" changeset="148171790" timestamp="2024-03-03T15:54:40Z" user="arman@jb08" uid="21145323" lat="35.6931741" lon="51.4219843"/>
+ <node id="11687952559" visible="true" version="1" changeset="148171790" timestamp="2024-03-03T15:54:40Z" user="arman@jb08" uid="21145323" lat="35.6933019" lon="51.4222743"/>
+ <node id="11866263934" visible="true" version="1" changeset="150663351" timestamp="2024-04-29T13:14:41Z" user="Khashayarmhm" uid="16351944" lat="35.6948864" lon="51.4194034">
+  <tag k="bus" v="yes"/>
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="سفارت"/>
+  <tag k="public_transport" v="platform"/>
+ </node>
+ <node id="11866532759" visible="true" version="1" changeset="150666949" timestamp="2024-04-29T14:40:21Z" user="Khashayarmhm" uid="16351944" lat="35.6946952" lon="51.4194412">
+  <tag k="bus" v="yes"/>
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="نادری"/>
+  <tag k="public_transport" v="platform"/>
+ </node>
+ <node id="11900388007" visible="true" version="1" changeset="151253721" timestamp="2024-05-13T07:29:37Z" user="elsy1" uid="2038741" lat="35.6929508" lon="51.4198989"/>
+ <node id="11919213434" visible="true" version="1" changeset="151562149" timestamp="2024-05-20T06:27:31Z" user="Karindag" uid="635984" lat="35.6949933" lon="51.4196397"/>
+ <node id="11919213435" visible="true" version="1" changeset="151562149" timestamp="2024-05-20T06:27:31Z" user="Karindag" uid="635984" lat="35.6949454" lon="51.4196415">
+  <tag k="description" v="Large metal reproduction of a photo of victims of the Armenian Genocide placed at a street intersection."/>
+  <tag k="historic" v="monument"/>
+  <tag k="name" v="Armenian Genocide Monument"/>
+  <tag k="website" v="https://allinnet.info/world/art-installation-of-the-armenian-genocide-photo-in-front-of-the-turkish-embassy-in-tehran-iran/"/>
+ </node>
+ <node id="12330926151" visible="true" version="1" changeset="159009835" timestamp="2024-11-11T13:49:51Z" user="customer2" uid="21894799" lat="35.6935998" lon="51.4221838">
+  <tag k="addr:city" v="تهران"/>
+  <tag k="addr:street" v="جمهوری اسلامی"/>
+  <tag k="clothes" v="زنانه"/>
+  <tag k="name" v="تولیدی امید"/>
+  <tag k="operator" v="تولیدی امید"/>
+  <tag k="phone" v="09121520556"/>
+  <tag k="shop" v="clothes"/>
+ </node>
+ <node id="12371631784" visible="true" version="3" changeset="159975551" timestamp="2024-12-05T23:08:36Z" user="b-jazz-bot" uid="9451067" lat="35.6957209" lon="51.4209870">
+  <tag k="addr:city" v="تهران"/>
+  <tag k="addr:street" v="اکبر طاهری"/>
+  <tag k="clothes" v="اورجینال"/>
+  <tag k="name" v="اورجینال دیلم شعبه تهران"/>
+  <tag k="opening_hours" v="Mo-Su 11:00-21:00"/>
+  <tag k="operator" v="علی پسنده"/>
+  <tag k="phone" v="02133114251"/>
+  <tag k="shop" v="clothes"/>
+  <tag k="website" v="https://www.originaldeylam.ir/"/>
+ </node>
+ <node id="12378833025" visible="true" version="3" changeset="159663652" timestamp="2024-11-27T14:45:45Z" user="manokhoone" uid="22227253" lat="35.6934887" lon="51.4215358">
+  <tag k="addr:city" v="تهران"/>
+  <tag k="addr:housenumber" v="140"/>
+  <tag k="addr:postcode" v="1144644758"/>
+  <tag k="addr:street" v="جمهوری اسلامی"/>
+  <tag k="name" v="فروشگاه منوخونه"/>
+  <tag k="opening_hours" v="sa-th 11:00-19:00"/>
+  <tag k="payment:app" v="yes"/>
+  <tag k="payment:cash" v="yes"/>
+  <tag k="payment:debit_cards" v="yes"/>
+  <tag k="phone" v="+982133970292"/>
+  <tag k="shop" v="houseware"/>
+  <tag k="website" v="https://manokhoone.com"/>
+ </node>
+ <node id="12429986409" visible="true" version="2" changeset="160336466" timestamp="2024-12-18T07:19:41Z" user="customer2" uid="21894799" lat="35.6944780" lon="51.4209958">
+  <tag k="addr:city" v="تهران"/>
+  <tag k="addr:street" v="خط ویژه جمهوری - بهارستان"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="رستوران ارکید"/>
+  <tag k="phone" v="09123366711"/>
+ </node>
+ <node id="12443551034" visible="true" version="1" changeset="160528817" timestamp="2024-12-23T09:00:55Z" user="customer2" uid="21894799" lat="35.6957186" lon="51.4210887">
+  <tag k="addr:city" v="تهران"/>
+  <tag k="addr:street" v="اکبر طاهری"/>
+  <tag k="name" v="دیلم پلاس"/>
+  <tag k="opening_hours" v="Mo-Su 11:00-21:00"/>
+  <tag k="operator" v="علی پسنده"/>
+  <tag k="phone" v="02133114251"/>
+  <tag k="shop" v="clothes"/>
+ </node>
+ <node id="12513649128" visible="true" version="1" changeset="161513033" timestamp="2025-01-19T04:49:55Z" user="FEFdiego" uid="18356406" lat="35.6934682" lon="51.4218986">
+  <tag k="clothes" v="wedding"/>
+  <tag k="name" v="لباس مجلسی سحر [شعبه کوچه برلن]"/>
+  <tag k="shop" v="clothes"/>
+ </node>
+ <way id="36390767" visible="true" version="13" changeset="144663749" timestamp="2023-12-01T15:38:36Z" user="Finn" uid="135590">
+  <nd ref="424400511"/>
+  <nd ref="7345560197"/>
+  <nd ref="4827474662"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="بابی ساندز"/>
+  <tag k="name:en" v="Bobby Sands St."/>
+  <tag k="old_name" v="چرچیل"/>
+  <tag k="source" v="Yahoo"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="73596610" visible="true" version="12" changeset="155402330" timestamp="2024-08-18T08:44:01Z" user="hocu" uid="374342">
+  <nd ref="872260891"/>
+  <nd ref="872260894"/>
+  <nd ref="9931804051"/>
+  <nd ref="872260899"/>
+  <nd ref="872260903"/>
+  <nd ref="872260891"/>
+  <tag k="addr:city" v="Teheran"/>
+  <tag k="addr:country" v="IR"/>
+  <tag k="addr:housenumber" v="337"/>
+  <tag k="addr:street" v="فردوسی"/>
+  <tag k="contact:email" v="embassy.tehran@mfa.gov.tr"/>
+  <tag k="contact:fax" v="+98 21 3311 7928"/>
+  <tag k="contact:phone" v="+98 21 3595 1100"/>
+  <tag k="contact:website" v="https://tahran-be.mfa.gov.tr"/>
+  <tag k="country" v="TR"/>
+  <tag k="diplomatic" v="embassy"/>
+  <tag k="embassy" v="yes"/>
+  <tag k="name" v="سفارت ترکیه"/>
+  <tag k="name:de" v="Türkische Botschaft"/>
+  <tag k="name:en" v="Turkish Embassy"/>
+  <tag k="name:fr" v="Ambassade de Turquie"/>
+  <tag k="name:tr" v="Türkiye Büyükelçiliği"/>
+  <tag k="office" v="diplomatic"/>
+  <tag k="opening_hours" v="Su-Th 09:00-18:00"/>
+  <tag k="target" v="IR"/>
+  <tag k="wikidata" v="Q25425131"/>
+ </way>
+ <way id="73596878" visible="true" version="12" changeset="144974161" timestamp="2023-12-10T18:44:24Z" user="elsy1" uid="2038741">
+  <nd ref="872260891"/>
+  <nd ref="872260894"/>
+  <nd ref="872265116"/>
+  <nd ref="872265118"/>
+  <nd ref="872260891"/>
+  <tag k="addr:city" v="Teheran"/>
+  <tag k="addr:housenumber" v="320-324"/>
+  <tag k="addr:street" v="فردوسی"/>
+  <tag k="contact:website" v="https://teheran.diplo.de/"/>
+  <tag k="country" v="DE"/>
+  <tag k="diplomatic" v="embassy"/>
+  <tag k="diplomatic:services:citizen_services" v="yes"/>
+  <tag k="embassy" v="yes"/>
+  <tag k="name" v="سفارت آلمان"/>
+  <tag k="name:de" v="Deutsche Botschaft"/>
+  <tag k="name:en" v="German Embassy"/>
+  <tag k="name:fr" v="Ambassade d'Allemagne"/>
+  <tag k="office" v="diplomatic"/>
+  <tag k="official_name:de" v="Botschaft der Bundesrepublik Deutschland"/>
+  <tag k="target" v="IR"/>
+  <tag k="wikidata" v="Q20110427"/>
+ </way>
+ <way id="182086520" visible="true" version="9" changeset="150435143" timestamp="2024-04-24T09:37:32Z" user="Reza_Kazemi75" uid="8983560">
+  <nd ref="2048172139"/>
+  <nd ref="1924274272"/>
+  <nd ref="1924274038"/>
+  <tag k="access" v="destination"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="182086531" visible="true" version="5" changeset="127526048" timestamp="2022-10-14T13:27:02Z" user="elsy1" uid="2038741">
+  <nd ref="1924274169"/>
+  <nd ref="1924274471"/>
+  <nd ref="1924274500"/>
+  <nd ref="1924274149"/>
+  <nd ref="1924274169"/>
+  <tag k="addr:street" v="شیروانی"/>
+  <tag k="amenity" v="hospital"/>
+  <tag k="building" v="yes"/>
+  <tag k="healthcare" v="hospital"/>
+  <tag k="name" v="بیمارستان بانک ملی ایران"/>
+  <tag k="name:en" v="Bank Melli Hospital"/>
+ </way>
+ <way id="194297247" visible="true" version="12" changeset="155151380" timestamp="2024-08-12T14:13:01Z" user="siavash_mohammadi" uid="9620631">
+  <nd ref="1924274156"/>
+  <nd ref="7345560199"/>
+  <nd ref="7345560201"/>
+  <nd ref="2048221654"/>
+  <nd ref="7928172657"/>
+  <nd ref="7928008739"/>
+  <nd ref="1924274038"/>
+  <nd ref="7928219360"/>
+  <nd ref="9164595934"/>
+  <nd ref="447880573"/>
+  <tag k="full_name" v="کوچه شیروانی"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="شیروانی"/>
+  <tag k="name:en" v="Shirvani Alley"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="194297248" visible="true" version="7" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741">
+  <nd ref="2048221654"/>
+  <nd ref="7928008741"/>
+  <nd ref="7310684913"/>
+  <nd ref="2048221653"/>
+  <nd ref="7310684914"/>
+  <nd ref="2048172132"/>
+  <tag k="full_name" v="کوچه کلارا آبکار"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="جاویدان"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="211028553" visible="true" version="9" changeset="146180317" timestamp="2024-01-12T13:01:04Z" user="Hooman Mallahzadeh" uid="18346409">
+  <nd ref="2210390968"/>
+  <nd ref="2210390967"/>
+  <nd ref="2210390966"/>
+  <nd ref="2210390965"/>
+  <nd ref="2210390964"/>
+  <nd ref="2210390963"/>
+  <nd ref="2210390962"/>
+  <nd ref="2210390961"/>
+  <nd ref="2210390957"/>
+  <nd ref="2210390956"/>
+  <nd ref="2210390958"/>
+  <nd ref="2210390969"/>
+  <nd ref="2210390968"/>
+  <tag k="addr:city" v="تهران"/>
+  <tag k="addr:street" v="فردوسی"/>
+  <tag k="building" v="yes"/>
+  <tag k="contact:phone" v="+98216646 3785"/>
+  <tag k="name" v="موزه جواهرات ملی"/>
+  <tag k="name:en" v="National jewellery museum"/>
+  <tag k="name:ru" v="Национальный ювелирный музей"/>
+  <tag k="opening_hours" v="Sa-Tu 14:00-16:30"/>
+  <tag k="tourism" v="museum"/>
+  <tag k="wikidata" v="Q5949273"/>
+  <tag k="wikipedia" v="fa:موزه جواهرات ملی ایران"/>
+ </way>
+ <way id="330197295" visible="true" version="16" changeset="151562149" timestamp="2024-05-20T06:27:31Z" user="Karindag" uid="635984">
+  <nd ref="3371494610"/>
+  <nd ref="9017890197"/>
+  <nd ref="9017890196"/>
+  <nd ref="3371494611"/>
+  <nd ref="9017890203"/>
+  <nd ref="9017890199"/>
+  <nd ref="9017890202"/>
+  <nd ref="9017890229"/>
+  <nd ref="11919213434"/>
+  <nd ref="3371494612"/>
+  <nd ref="9017890210"/>
+  <nd ref="9017890207"/>
+  <nd ref="3371494613"/>
+  <nd ref="9017890214"/>
+  <nd ref="9017890211"/>
+  <nd ref="9017890215"/>
+  <nd ref="9017890222"/>
+  <nd ref="9017890217"/>
+  <nd ref="9017890227"/>
+  <nd ref="9017890223"/>
+  <nd ref="9017890126"/>
+  <nd ref="9017890124"/>
+  <nd ref="9017890116"/>
+  <nd ref="9017890109"/>
+  <nd ref="3371494610"/>
+  <tag k="addr:city" v="Tehran"/>
+  <tag k="addr:housenumber" v="198"/>
+  <tag k="addr:street" v="Ferdowsi Avenue"/>
+  <tag k="alt_name" v="سفارت انگلیس"/>
+  <tag k="leisure" v="garden"/>
+  <tag k="name" v="سفارت انگلستان"/>
+  <tag k="name:de" v="Britische Botschaft"/>
+  <tag k="name:en" v="British Embassy"/>
+  <tag k="name:es" v="Embajada de Gran Bretaña"/>
+  <tag k="name:ru" v="посольство Великобритании"/>
+  <tag k="name:tr" v="Britanya Büyükelçiliği"/>
+ </way>
+ <way id="330606829" visible="true" version="12" changeset="117968434" timestamp="2022-03-01T07:55:55Z" user="osmword" uid="12314223">
+  <nd ref="25971740"/>
+  <nd ref="4711977696"/>
+  <nd ref="9546765448"/>
+  <nd ref="411824473"/>
+  <tag k="highway" v="primary"/>
+  <tag k="maxspeed" v="60"/>
+  <tag k="name" v="جمهوری اسلامی"/>
+  <tag k="name:en" v="Jomhuriye Eslami Street"/>
+  <tag k="old_name" v="استانبول"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="256"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="330606830" visible="true" version="15" changeset="144703690" timestamp="2023-12-02T20:42:57Z" user="elsy1" uid="2038741">
+  <nd ref="1410146082"/>
+  <nd ref="4707926963"/>
+  <nd ref="4707946165"/>
+  <nd ref="2048166252"/>
+  <nd ref="424283278"/>
+  <nd ref="447880560"/>
+  <nd ref="2048166307"/>
+  <nd ref="4721762072"/>
+  <nd ref="1924274156"/>
+  <nd ref="4736472158"/>
+  <nd ref="25971740"/>
+  <tag k="full_name:fa" v="خیابان جمهوری اسلامی"/>
+  <tag k="highway" v="primary"/>
+  <tag k="maxspeed" v="60"/>
+  <tag k="name" v="جمهوری اسلامی"/>
+  <tag k="name:de" v="Jomhuriye-Eslami"/>
+  <tag k="name:en" v="Jomhuriye Eslami Street"/>
+  <tag k="old_name" v="خیابان نادری"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="256"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="387310475" visible="true" version="10" changeset="90099146" timestamp="2020-08-28T20:31:57Z" user="Hadi Omid" uid="3817321">
+  <nd ref="6259509475"/>
+  <nd ref="6264276153"/>
+  <nd ref="4932704309"/>
+  <nd ref="4932704307"/>
+  <nd ref="4932704308"/>
+  <nd ref="4932704306"/>
+  <nd ref="6687238147"/>
+  <nd ref="3906157565"/>
+  <tag k="access" v="no"/>
+  <tag k="bus" v="yes"/>
+  <tag k="emergency" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="service"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="فردوسی"/>
+  <tag k="name:tr" v="Firdevsi"/>
+  <tag k="service" v="bus"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="440205764" visible="true" version="3" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741">
+  <nd ref="4379258757"/>
+  <nd ref="4379258758"/>
+  <nd ref="4379258759"/>
+  <nd ref="4379258760"/>
+  <nd ref="4379258761"/>
+  <nd ref="4379258762"/>
+  <nd ref="4379258763"/>
+  <nd ref="4379258764"/>
+  <nd ref="4379258765"/>
+  <nd ref="4379258757"/>
+  <tag k="building" v="yes"/>
+  <tag k="diplomatic" v="embassy"/>
+  <tag k="office" v="diplomatic"/>
+ </way>
+ <way id="477677692" visible="true" version="2" changeset="136023715" timestamp="2023-05-12T15:24:33Z" user="Mostafa Ahangarha" uid="3800783">
+  <nd ref="4709843774"/>
+  <nd ref="4709843775"/>
+  <nd ref="4709843776"/>
+  <nd ref="4709843777"/>
+  <nd ref="4709843774"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="477677693" visible="true" version="4" changeset="143749304" timestamp="2023-11-07T18:42:48Z" user="elsy1" uid="2038741">
+  <nd ref="4709843779"/>
+  <nd ref="4709843780"/>
+  <nd ref="4709843782"/>
+  <nd ref="5500490714"/>
+  <nd ref="5500490715"/>
+  <nd ref="5500490716"/>
+  <nd ref="4709843784"/>
+  <nd ref="4709843785"/>
+  <nd ref="4709843786"/>
+  <nd ref="4709843787"/>
+  <nd ref="4709843779"/>
+  <tag k="amenity" v="parking"/>
+ </way>
+ <way id="477677694" visible="true" version="4" changeset="94683855" timestamp="2020-11-24T08:46:36Z" user="Mostafa Ahangarha" uid="3800783">
+  <nd ref="4709843788"/>
+  <nd ref="4736472157"/>
+  <nd ref="4709844389"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="بانک مرکزی"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="477908336" visible="true" version="4" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741">
+  <nd ref="4711977696"/>
+  <nd ref="4736472156"/>
+  <nd ref="4711977697"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="مسجد هدایت"/>
+  <tag k="service" v="alley"/>
+ </way>
+ <way id="477908337" visible="true" version="5" changeset="151010594" timestamp="2024-05-07T13:14:30Z" user="f_kia" uid="15483956">
+  <nd ref="4711977698"/>
+  <nd ref="4711977699"/>
+  <nd ref="4711977700"/>
+  <nd ref="11297458841"/>
+  <nd ref="11297458842"/>
+  <nd ref="11297458843"/>
+  <nd ref="4711977701"/>
+  <nd ref="4711977698"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="پاساژ کویتیها"/>
+  <tag k="shop" v="mall"/>
+  <tag k="wheelchair" v="limited"/>
+ </way>
+ <way id="510563477" visible="true" version="2" changeset="82809035" timestamp="2020-03-30T07:32:12Z" user="hamidMA" uid="10368560">
+  <nd ref="4995561418"/>
+  <nd ref="4995561417"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="سمسام"/>
+ </way>
+ <way id="632170961" visible="true" version="6" changeset="117968434" timestamp="2022-03-01T07:55:55Z" user="osmword" uid="12314223">
+  <nd ref="3482726509"/>
+  <nd ref="9546765449"/>
+  <nd ref="4736472156"/>
+  <nd ref="9520495146"/>
+  <nd ref="863125777"/>
+  <nd ref="3906157565"/>
+  <tag k="access" v="no"/>
+  <tag k="bus" v="yes"/>
+  <tag k="emergency" v="yes"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="خط ویژه جمهوری - بهارستان"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="668942164" visible="true" version="12" changeset="151253721" timestamp="2024-05-13T07:29:37Z" user="elsy1" uid="2038741">
+  <nd ref="6259623223"/>
+  <nd ref="8953497123"/>
+  <nd ref="447880566"/>
+  <nd ref="2048255536"/>
+  <nd ref="4379259050"/>
+  <nd ref="447880567"/>
+  <nd ref="11635536473"/>
+  <nd ref="4709843788"/>
+  <nd ref="25971740"/>
+  <nd ref="863125777"/>
+  <nd ref="4995561418"/>
+  <nd ref="2048255535"/>
+  <nd ref="1333387955"/>
+  <nd ref="2048255551"/>
+  <nd ref="424283312"/>
+  <nd ref="2048150071"/>
+  <nd ref="4721554991"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="name" v="فردوسی"/>
+  <tag k="name:en" v="Ferdosi Street"/>
+  <tag k="name:ru" v="улица Фирдоуси"/>
+  <tag k="name:tr" v="Firdevsi Sok."/>
+  <tag k="old_name" v="علاء الدوله"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="285"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="684649875" visible="true" version="4" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741">
+  <nd ref="6414967936"/>
+  <nd ref="6414967949"/>
+  <nd ref="6414967925"/>
+  <nd ref="6414967921"/>
+  <nd ref="6414967936"/>
+  <tag k="addr:street" v="فردوسی"/>
+  <tag k="amenity" v="bank"/>
+  <tag k="atm" v="yes"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="40"/>
+ </way>
+ <way id="707107641" visible="true" version="1" changeset="72621660" timestamp="2019-07-24T23:22:20Z" user="DharmaBum" uid="2886100">
+  <nd ref="6645046938"/>
+  <nd ref="6645046939"/>
+  <nd ref="6645046940"/>
+  <nd ref="6645046941"/>
+  <nd ref="6645046938"/>
+  <tag k="intermittent" v="yes"/>
+  <tag k="natural" v="water"/>
+  <tag k="water" v="basin"/>
+ </way>
+ <way id="785153976" visible="true" version="1" changeset="82727391" timestamp="2020-03-27T17:50:39Z" user="cbeddow" uid="2611295">
+  <nd ref="7335610488"/>
+  <nd ref="7335610489"/>
+  <nd ref="7335610490"/>
+  <nd ref="7335610491"/>
+  <nd ref="7335610488"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="785793072" visible="true" version="1" changeset="82809035" timestamp="2020-03-30T07:32:12Z" user="hamidMA" uid="10368560">
+  <nd ref="7345560199"/>
+  <nd ref="7345560200"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="تابان"/>
+ </way>
+ <way id="785793073" visible="true" version="1" changeset="82809035" timestamp="2020-03-30T07:32:12Z" user="hamidMA" uid="10368560">
+  <nd ref="7345560201"/>
+  <nd ref="7345560202"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="نادر"/>
+ </way>
+ <way id="842002877" visible="true" version="4" changeset="151253721" timestamp="2024-05-13T07:29:37Z" user="elsy1" uid="2038741">
+  <nd ref="3906157565"/>
+  <nd ref="4736472158"/>
+  <nd ref="4736472157"/>
+  <nd ref="11900388007"/>
+  <nd ref="4736472163"/>
+  <nd ref="10272803516"/>
+  <nd ref="10272803515"/>
+  <nd ref="10272803514"/>
+  <nd ref="6259623223"/>
+  <tag k="access" v="no"/>
+  <tag k="bus" v="yes"/>
+  <tag k="emergency" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="service"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="خط اتوبوس"/>
+  <tag k="name:tr" v="Firdevsi"/>
+  <tag k="service" v="bus"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="842002878" visible="true" version="7" changeset="144703690" timestamp="2023-12-02T20:42:57Z" user="elsy1" uid="2038741">
+  <nd ref="3906157565"/>
+  <nd ref="3482726511"/>
+  <nd ref="3482726512"/>
+  <nd ref="3482726513"/>
+  <nd ref="3482726515"/>
+  <nd ref="3482726516"/>
+  <nd ref="3482726517"/>
+  <nd ref="3482726519"/>
+  <nd ref="4736472155"/>
+  <nd ref="9861635199"/>
+  <nd ref="3482726520"/>
+  <nd ref="3482726521"/>
+  <nd ref="7908186115"/>
+  <nd ref="7908186110"/>
+  <nd ref="8317742495"/>
+  <nd ref="6318783843"/>
+  <nd ref="7855361397"/>
+  <nd ref="3482726524"/>
+  <nd ref="7855361396"/>
+  <nd ref="863125775"/>
+  <nd ref="3482726525"/>
+  <nd ref="3482726526"/>
+  <nd ref="7141490239"/>
+  <nd ref="3482726528"/>
+  <tag k="access" v="no"/>
+  <tag k="bus" v="yes"/>
+  <tag k="emergency" v="yes"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="خط ویژه جمهوری - بهارستان"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="849754863" visible="true" version="2" changeset="145447687" timestamp="2023-12-23T19:20:37Z" user="elsy1" uid="2038741">
+  <nd ref="7928008739"/>
+  <nd ref="7928008740"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="شقایق"/>
+  <tag k="service" v="alley"/>
+ </way>
+ <way id="849778569" visible="true" version="1" changeset="91230582" timestamp="2020-09-21T12:43:27Z" user="mahmoudabadi_fm" uid="10812576">
+  <nd ref="7928172657"/>
+  <nd ref="7928172658"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="ایروانی"/>
+ </way>
+ <way id="951923845" visible="true" version="2" changeset="135205264" timestamp="2023-04-21T18:13:29Z" user="elsy1" uid="2038741">
+  <nd ref="8810934941"/>
+  <nd ref="8810934942"/>
+  <nd ref="8810934943"/>
+  <nd ref="8810934944"/>
+  <nd ref="8810934941"/>
+  <tag k="addr:city" v="تهران"/>
+  <tag k="addr:street" v="ژاندارک"/>
+  <tag k="amenity" v="school"/>
+  <tag k="name" v="مدرسه ژاندارک"/>
+  <tag k="name:en" v="Jeanne D'Arc School"/>
+  <tag k="wikidata" v="Q6564419"/>
+  <tag k="wikipedia" v="fa:مدرسه ژاندارک"/>
+ </way>
+ <way id="972209170" visible="true" version="3" changeset="139364949" timestamp="2023-08-02T21:15:59Z" user="Mateusz Konieczny" uid="1722488">
+  <nd ref="4827474662"/>
+  <nd ref="3482726512"/>
+  <tag k="highway" v="footway"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="بابی ساندز"/>
+  <tag k="name:en" v="Bobby Sands St."/>
+  <tag k="old_name" v="چرچیل"/>
+  <tag k="source" v="Yahoo"/>
+ </way>
+ <way id="974413233" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454">
+  <nd ref="9017890134"/>
+  <nd ref="9017890235"/>
+  <nd ref="9017890135"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="974413238" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454">
+  <nd ref="9017890176"/>
+  <nd ref="9017890177"/>
+  <nd ref="9017890178"/>
+  <nd ref="9017890179"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="974413246" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454">
+  <nd ref="9017890207"/>
+  <nd ref="9017890208"/>
+  <nd ref="9017890209"/>
+  <nd ref="9017890210"/>
+  <nd ref="9017890207"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="974413247" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454">
+  <nd ref="9017890211"/>
+  <nd ref="9017890212"/>
+  <nd ref="9017890213"/>
+  <nd ref="9017890214"/>
+  <nd ref="9017890211"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="974413248" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454">
+  <nd ref="9017890215"/>
+  <nd ref="9017890216"/>
+  <nd ref="9017890212"/>
+  <nd ref="9017890211"/>
+  <nd ref="9017890215"/>
+  <tag k="landuse" v="grass"/>
+ </way>
+ <way id="974413251" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454">
+  <nd ref="9017890228"/>
+  <nd ref="9017890202"/>
+  <nd ref="9017890229"/>
+  <nd ref="9017890230"/>
+  <nd ref="9017890228"/>
+  <tag k="amenity" v="parking"/>
+ </way>
+ <way id="974413253" visible="true" version="1" changeset="109889447" timestamp="2021-08-18T17:47:27Z" user="canaha4466" uid="13955454">
+  <nd ref="9017890179"/>
+  <nd ref="9017890235"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="1029124094" visible="true" version="4" changeset="143303201" timestamp="2023-10-29T09:20:54Z" user="elsy1" uid="2038741">
+  <nd ref="9488074487"/>
+  <nd ref="9488074484"/>
+  <nd ref="11297458838"/>
+  <nd ref="9488074486"/>
+  <nd ref="11297458839"/>
+  <nd ref="9488074483"/>
+  <nd ref="9488074487"/>
+  <tag k="building" v="commercial"/>
+  <tag k="name" v="پاساژ پلاسکو"/>
+ </way>
+ <way id="1083788846" visible="true" version="2" changeset="144974161" timestamp="2023-12-10T18:44:24Z" user="elsy1" uid="2038741">
+  <nd ref="9931804051"/>
+  <nd ref="872260894"/>
+  <nd ref="872265116"/>
+  <tag k="barrier" v="fence"/>
+ </way>
+ <way id="1164854772" visible="true" version="1" changeset="135262855" timestamp="2023-04-23T13:49:35Z" user="elsy1" uid="2038741">
+  <nd ref="10833903294"/>
+  <nd ref="10833903295"/>
+  <nd ref="10833903296"/>
+  <nd ref="10833903297"/>
+  <nd ref="10833903294"/>
+  <tag k="building" v="commercial"/>
+  <tag k="height" v="50"/>
+  <tag k="name" v="پلاسکو 1400"/>
+ </way>
+ <way id="1219269964" visible="true" version="3" changeset="159660887" timestamp="2024-11-27T13:55:20Z" user="manokhoone" uid="22227253">
+  <nd ref="11297471784"/>
+  <nd ref="11407943583"/>
+  <nd ref="11407943581"/>
+  <nd ref="11297471785"/>
+  <nd ref="11297471786"/>
+  <nd ref="11297471787"/>
+  <nd ref="11297471788"/>
+  <nd ref="11297471789"/>
+  <nd ref="11297471790"/>
+  <nd ref="11297471791"/>
+  <nd ref="11297471792"/>
+  <nd ref="11297471793"/>
+  <nd ref="11297471794"/>
+  <nd ref="11297471784"/>
+  <tag k="building" v="commercial"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="name" v="پاساژ پروانه"/>
+ </way>
+ <way id="1230151631" visible="true" version="1" changeset="144974161" timestamp="2023-12-10T18:44:24Z" user="elsy1" uid="2038741">
+  <nd ref="11297471785"/>
+  <nd ref="11407943578"/>
+  <nd ref="11407943579"/>
+  <nd ref="11407943580"/>
+  <nd ref="11407943581"/>
+  <nd ref="11297471785"/>
+  <tag k="building" v="apartments"/>
+ </way>
+ <way id="1230151632" visible="true" version="2" changeset="148171790" timestamp="2024-03-03T15:54:40Z" user="arman@jb08" uid="21145323">
+  <nd ref="11407943580"/>
+  <nd ref="11687952512"/>
+  <nd ref="11687952515"/>
+  <nd ref="11407943582"/>
+  <nd ref="11407943583"/>
+  <nd ref="11407943581"/>
+  <nd ref="11407943580"/>
+  <tag k="building" v="apartments"/>
+ </way>
+ <way id="1257168192" visible="true" version="1" changeset="148171790" timestamp="2024-03-03T15:54:40Z" user="arman@jb08" uid="21145323">
+  <nd ref="11407943579"/>
+  <nd ref="4711977717"/>
+  <nd ref="4711977718"/>
+  <nd ref="4711977714"/>
+  <nd ref="11687952559"/>
+  <nd ref="11687952513"/>
+  <nd ref="11687952512"/>
+  <nd ref="11407943579"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <relation id="8321734" visible="true" version="5" changeset="80341653" timestamp="2020-01-31T00:51:14Z" user="OSMIran" uid="10314471">
+  <member type="node" ref="5637867545" role="admin_centre"/>
+  <member type="way" ref="659256768" role="outer"/>
+  <member type="way" ref="659257125" role="outer"/>
+  <member type="way" ref="455082448" role="outer"/>
+  <member type="way" ref="455082445" role="outer"/>
+  <member type="way" ref="659256764" role="outer"/>
+  <member type="way" ref="659256747" role="outer"/>
+  <tag k="admin_level" v="11"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="is_in:city" v="تهران"/>
+  <tag k="name" v="فردوسی"/>
+  <tag k="name:en" v="Ferdowsi"/>
+  <tag k="place" v="neighbourhood"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="11555910" visible="true" version="13" changeset="150663351" timestamp="2024-04-29T13:14:41Z" user="Khashayarmhm" uid="16351944">
+  <member type="node" ref="5195668023" role="platform"/>
+  <member type="node" ref="5210319025" role="platform"/>
+  <member type="node" ref="5210328023" role="platform"/>
+  <member type="node" ref="5210319026" role="platform"/>
+  <member type="node" ref="4827417856" role="platform"/>
+  <member type="node" ref="872185379" role="platform"/>
+  <member type="node" ref="872181526" role="platform"/>
+  <member type="node" ref="872176481" role="platform"/>
+  <member type="node" ref="7855361399" role="platform"/>
+  <member type="node" ref="872172594" role="platform"/>
+  <member type="node" ref="872166995" role="platform"/>
+  <member type="node" ref="4796981142" role="platform"/>
+  <member type="node" ref="4772961206" role="platform"/>
+  <member type="node" ref="872155082" role="platform"/>
+  <member type="node" ref="654080619" role="platform"/>
+  <member type="node" ref="11361916466" role=""/>
+  <member type="way" ref="72679096" role="forward"/>
+  <member type="way" ref="1241937500" role="forward"/>
+  <member type="way" ref="587091410" role="forward"/>
+  <member type="way" ref="878836285" role="backward"/>
+  <member type="way" ref="1278173514" role="backward"/>
+  <member type="way" ref="842002878" role="backward"/>
+  <member type="way" ref="878836282" role="backward"/>
+  <member type="way" ref="387310475" role="forward"/>
+  <member type="way" ref="490554857" role="forward"/>
+  <member type="way" ref="842002879" role="forward"/>
+  <member type="way" ref="1222063474" role="forward"/>
+  <member type="way" ref="842002880" role="forward"/>
+  <member type="way" ref="842002881" role="forward"/>
+  <tag k="name" v="میدان جمهوری - پل کریم خان"/>
+  <tag k="operator" v="شرکت واحد اتوبوسرانی تهران"/>
+  <tag k="ref" v="356"/>
+  <tag k="route" v="bus"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="12115906" visible="true" version="10" changeset="161482717" timestamp="2025-01-18T08:53:12Z" user="siavash_mohammadi" uid="9620631">
+  <member type="node" ref="3507051015" role=""/>
+  <member type="node" ref="3828324126" role="platform"/>
+  <member type="node" ref="8277386544" role="platform"/>
+  <member type="node" ref="8277386545" role="platform"/>
+  <member type="node" ref="5195704321" role="platform"/>
+  <member type="node" ref="5195668024" role="platform"/>
+  <member type="node" ref="5195668023" role="platform"/>
+  <member type="node" ref="5210319025" role="platform"/>
+  <member type="node" ref="5210319026" role="platform"/>
+  <member type="node" ref="4827417857" role="platform"/>
+  <member type="node" ref="8277386546" role="platform"/>
+  <member type="node" ref="8277386547" role="platform"/>
+  <member type="way" ref="889467194" role="forward"/>
+  <member type="way" ref="57826832" role="forward"/>
+  <member type="way" ref="57826811" role="forward"/>
+  <member type="way" ref="1238012082" role="forward"/>
+  <member type="way" ref="890585613" role="forward"/>
+  <member type="way" ref="57826827" role="forward"/>
+  <member type="way" ref="890585614" role="forward"/>
+  <member type="way" ref="4354825" role="forward"/>
+  <member type="way" ref="465139290" role="forward"/>
+  <member type="way" ref="181936171" role="forward"/>
+  <member type="way" ref="510535364" role="forward"/>
+  <member type="way" ref="681318644" role="forward"/>
+  <member type="way" ref="681318637" role="forward"/>
+  <member type="way" ref="32964586" role="forward"/>
+  <member type="way" ref="632169134" role="forward"/>
+  <member type="way" ref="913197029" role="forward"/>
+  <member type="way" ref="913197028" role="forward"/>
+  <member type="way" ref="1230521534" role="forward"/>
+  <member type="way" ref="890585616" role="forward"/>
+  <member type="way" ref="842002881" role="forward"/>
+  <member type="way" ref="842002880" role="forward"/>
+  <member type="way" ref="1222063474" role="forward"/>
+  <member type="way" ref="842002879" role="forward"/>
+  <member type="way" ref="490554857" role="forward"/>
+  <member type="way" ref="387310475" role="forward"/>
+  <member type="way" ref="842002877" role="forward"/>
+  <member type="way" ref="1122152257" role="forward"/>
+  <tag k="from" v="پایانه بیهقی"/>
+  <tag k="name" v="پایانه بیهقی - اول ‌فردوسی"/>
+  <tag k="operator" v="شرکت واحد اتوبوسرانی تهران"/>
+  <tag k="ref" v="358"/>
+  <tag k="route" v="bus"/>
+  <tag k="source" v="tehran.ir"/>
+  <tag k="to" v="اول ‌فردوسی"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="14405239" visible="true" version="2" changeset="140610473" timestamp="2023-08-30T22:59:27Z" user="Khashayarmhm" uid="16351944">
+  <member type="node" ref="9922076464" role="label"/>
+  <member type="way" ref="455082448" role="outer"/>
+  <member type="way" ref="455082445" role="outer"/>
+  <member type="way" ref="659256764" role="outer"/>
+  <member type="way" ref="659256747" role="outer"/>
+  <member type="way" ref="659256770" role="outer"/>
+  <member type="way" ref="659256772" role="outer"/>
+  <member type="way" ref="659256763" role="outer"/>
+  <member type="way" ref="659256745" role="outer"/>
+  <member type="way" ref="659257165" role="outer"/>
+  <member type="way" ref="659257166" role="outer"/>
+  <member type="way" ref="659257125" role="outer"/>
+  <member type="relation" ref="8321734" role="subarea"/>
+  <member type="relation" ref="8321592" role="subarea"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="ناحیه ۱"/>
+  <tag k="place" v="quarter"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="17538060" visible="true" version="6" changeset="152361726" timestamp="2024-06-07T07:24:55Z" user="Khashayarmhm" uid="16351944">
+  <member type="node" ref="4958335077" role=""/>
+  <member type="node" ref="5178882724" role=""/>
+  <member type="node" ref="5178882725" role=""/>
+  <member type="node" ref="5178882525" role=""/>
+  <member type="node" ref="5178882526" role=""/>
+  <member type="node" ref="5178882726" role=""/>
+  <member type="node" ref="5180639421" role=""/>
+  <member type="node" ref="11862307772" role=""/>
+  <member type="node" ref="5235868622" role=""/>
+  <member type="node" ref="5180688128" role=""/>
+  <member type="node" ref="5180656930" role=""/>
+  <member type="node" ref="5180656931" role=""/>
+  <member type="node" ref="11866263930" role=""/>
+  <member type="node" ref="11866263931" role=""/>
+  <member type="node" ref="11866263932" role=""/>
+  <member type="node" ref="11866263933" role=""/>
+  <member type="node" ref="11866263934" role=""/>
+  <member type="node" ref="872181526" role=""/>
+  <member type="node" ref="872176481" role=""/>
+  <member type="node" ref="7855361399" role=""/>
+  <member type="node" ref="872172594" role=""/>
+  <member type="node" ref="11866263935" role=""/>
+  <member type="node" ref="11866263936" role=""/>
+  <member type="node" ref="6657270890" role=""/>
+  <member type="node" ref="8244513694" role=""/>
+  <member type="node" ref="8244513692" role=""/>
+  <member type="way" ref="1242464427" role=""/>
+  <member type="way" ref="704375101" role=""/>
+  <member type="way" ref="593498349" role=""/>
+  <member type="way" ref="821381287" role=""/>
+  <member type="way" ref="1278173513" role=""/>
+  <member type="way" ref="222758850" role=""/>
+  <member type="way" ref="885240715" role=""/>
+  <member type="way" ref="684880731" role=""/>
+  <member type="way" ref="684880732" role=""/>
+  <member type="way" ref="684880736" role=""/>
+  <member type="way" ref="321083835" role=""/>
+  <member type="way" ref="684907003" role=""/>
+  <member type="way" ref="827014820" role=""/>
+  <member type="way" ref="478544539" role=""/>
+  <member type="way" ref="461962516" role=""/>
+  <member type="way" ref="1020279275" role=""/>
+  <member type="way" ref="1278615267" role=""/>
+  <member type="way" ref="330628704" role=""/>
+  <member type="way" ref="210304162" role=""/>
+  <member type="way" ref="884342684" role=""/>
+  <member type="way" ref="1282489921" role=""/>
+  <member type="way" ref="210304175" role=""/>
+  <member type="way" ref="818904370" role=""/>
+  <member type="way" ref="818904372" role=""/>
+  <member type="way" ref="557392529" role=""/>
+  <member type="way" ref="1278390349" role=""/>
+  <member type="way" ref="632170961" role=""/>
+  <member type="way" ref="842002878" role=""/>
+  <member type="way" ref="878836285" role=""/>
+  <member type="way" ref="485345417" role=""/>
+  <member type="way" ref="1278740811" role=""/>
+  <member type="way" ref="174845593" role=""/>
+  <member type="way" ref="632170954" role=""/>
+  <tag k="name" v="شهید براری به میدان ولی عصر"/>
+  <tag k="route" v="bus"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="17538258" visible="true" version="7" changeset="157876764" timestamp="2024-10-14T13:03:56Z" user="Sajjad Samaei Yekta" uid="21834975">
+  <member type="node" ref="11733979572" role=""/>
+  <member type="node" ref="7856417753" role=""/>
+  <member type="node" ref="10594512542" role=""/>
+  <member type="node" ref="7856417755" role=""/>
+  <member type="node" ref="7856417756" role=""/>
+  <member type="node" ref="11866532757" role=""/>
+  <member type="node" ref="872172590" role=""/>
+  <member type="node" ref="4819815046" role=""/>
+  <member type="node" ref="11866532758" role=""/>
+  <member type="node" ref="11866532759" role=""/>
+  <member type="node" ref="11866532760" role=""/>
+  <member type="node" ref="11866532761" role=""/>
+  <member type="node" ref="11866532762" role=""/>
+  <member type="node" ref="11866490950" role=""/>
+  <member type="node" ref="11866490951" role=""/>
+  <member type="node" ref="11866490952" role=""/>
+  <member type="node" ref="11866490953" role=""/>
+  <member type="node" ref="5180639622" role=""/>
+  <member type="node" ref="11862307772" role=""/>
+  <member type="node" ref="5180639821" role=""/>
+  <member type="node" ref="5180639624" role=""/>
+  <member type="node" ref="5180639625" role=""/>
+  <member type="node" ref="5180639626" role=""/>
+  <member type="node" ref="5180639424" role=""/>
+  <member type="node" ref="5180639822" role=""/>
+  <member type="way" ref="138742265" role=""/>
+  <member type="way" ref="161072217" role=""/>
+  <member type="way" ref="377575397" role=""/>
+  <member type="way" ref="1222063471" role=""/>
+  <member type="way" ref="1222063472" role=""/>
+  <member type="way" ref="1323858486" role=""/>
+  <member type="way" ref="879261636" role=""/>
+  <member type="way" ref="5003754" role=""/>
+  <member type="way" ref="4318811" role=""/>
+  <member type="way" ref="882271646" role=""/>
+  <member type="way" ref="882271653" role=""/>
+  <member type="way" ref="882271649" role=""/>
+  <member type="way" ref="842122266" role=""/>
+  <member type="way" ref="33181292" role=""/>
+  <member type="way" ref="1278202271" role=""/>
+  <member type="way" ref="485559469" role=""/>
+  <member type="way" ref="330606830" role=""/>
+  <member type="way" ref="330606829" role=""/>
+  <member type="way" ref="557392531" role=""/>
+  <member type="way" ref="330606828" role=""/>
+  <member type="way" ref="1278508694" role=""/>
+  <member type="way" ref="210304145" role=""/>
+  <member type="way" ref="818904371" role=""/>
+  <member type="way" ref="194637706" role=""/>
+  <member type="way" ref="475518383" role=""/>
+  <member type="way" ref="1284663225" role=""/>
+  <member type="way" ref="175703078" role=""/>
+  <member type="way" ref="210304190" role=""/>
+  <member type="way" ref="672488302" role=""/>
+  <member type="way" ref="1020279274" role=""/>
+  <member type="way" ref="27707123" role=""/>
+  <member type="way" ref="1284624541" role=""/>
+  <member type="way" ref="461964538" role=""/>
+  <member type="way" ref="885240730" role=""/>
+  <member type="way" ref="1278277305" role=""/>
+  <member type="way" ref="426957152" role=""/>
+  <member type="way" ref="921069304" role=""/>
+  <tag k="name" v="میدان ولی عصر به پایانه شهید براری"/>
+  <tag k="route" v="bus"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="17685590" visible="true" version="1" changeset="152362282" timestamp="2024-06-07T07:40:55Z" user="Khashayarmhm" uid="16351944">
+  <member type="node" ref="11962245905" role=""/>
+  <member type="node" ref="11866263932" role=""/>
+  <member type="node" ref="11866263933" role=""/>
+  <member type="node" ref="11962245907" role=""/>
+  <member type="node" ref="11866263934" role=""/>
+  <member type="node" ref="2887653212" role=""/>
+  <member type="node" ref="872181526" role=""/>
+  <member type="node" ref="872176481" role=""/>
+  <member type="node" ref="7855361399" role=""/>
+  <member type="node" ref="872172594" role=""/>
+  <member type="node" ref="872166995" role=""/>
+  <member type="node" ref="4796981142" role=""/>
+  <member type="way" ref="557392529" role=""/>
+  <member type="way" ref="1278390349" role=""/>
+  <member type="way" ref="632170961" role=""/>
+  <member type="way" ref="842002878" role=""/>
+  <member type="way" ref="878836285" role=""/>
+  <member type="way" ref="1278173514" role=""/>
+  <member type="way" ref="587091410" role=""/>
+  <member type="node" ref="4772961206" role=""/>
+  <member type="node" ref="872154373" role=""/>
+  <tag k="name" v="میدان بهارستان به میدان جمهوری اسلامی"/>
+  <tag k="route" v="bus"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="17686405" visible="true" version="3" changeset="161482717" timestamp="2025-01-18T08:53:12Z" user="siavash_mohammadi" uid="9620631">
+  <member type="node" ref="8277386547" role=""/>
+  <member type="node" ref="8277386546" role=""/>
+  <member type="node" ref="4827417853" role=""/>
+  <member type="node" ref="4827417857" role=""/>
+  <member type="node" ref="5195704221" role=""/>
+  <member type="node" ref="5210319025" role=""/>
+  <member type="node" ref="5195668022" role=""/>
+  <member type="node" ref="4941277486" role=""/>
+  <member type="node" ref="5195668025" role=""/>
+  <member type="node" ref="5195704521" role=""/>
+  <member type="node" ref="11962637716" role=""/>
+  <member type="node" ref="4064072488" role=""/>
+  <member type="node" ref="11962637717" role=""/>
+  <member type="way" ref="1122152257" role=""/>
+  <member type="way" ref="668942164" role=""/>
+  <member type="way" ref="668942165" role=""/>
+  <member type="way" ref="490554857" role=""/>
+  <member type="way" ref="71880769" role=""/>
+  <member type="way" ref="666237005" role=""/>
+  <member type="way" ref="1230521535" role=""/>
+  <member type="way" ref="161072054" role=""/>
+  <member type="way" ref="913197031" role=""/>
+  <member type="way" ref="785356033" role=""/>
+  <member type="way" ref="330686030" role=""/>
+  <member type="way" ref="57791820" role=""/>
+  <member type="way" ref="1056361100" role=""/>
+  <member type="way" ref="1328077391" role=""/>
+  <member type="way" ref="57791886" role=""/>
+  <member type="way" ref="57826824" role=""/>
+  <member type="way" ref="472101509" role=""/>
+  <member type="way" ref="57826812" role=""/>
+  <member type="node" ref="3507051015" role=""/>
+  <tag k="name" v="اول فردوسی به پایانه بیهقی"/>
+  <tag k="route" v="bus"/>
+  <tag k="type" v="route"/>
+ </relation>
+</osm>

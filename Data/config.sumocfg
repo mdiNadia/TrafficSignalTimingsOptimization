@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <configuration>
    <input>
-      <net-file value="networks.net.xml"/>
+      <net-file value="map.net.xml"/>
    </input>
    <time>
       <begin value="0"/>
